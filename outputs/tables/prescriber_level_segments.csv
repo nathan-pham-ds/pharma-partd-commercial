@@ -1,0 +1,1149 @@
+npi,state,specialty,claims_now,claims_prev,new_now,new_class_share_pct,growth_pct,segment_id,segment
+1588444680,IL,Physician Assistant,16.0,31.0,0.0,0.0,-48.38709677419355,2,Low-volume traditionalists
+1027861116,NJ,Family Practice,79.0,27.0,54.0,68.35443037974683,192.59259259259258,3,High-volume traditionalists
+1548298902,TX,Nurse Practitioner,114.0,90.0,65.0,57.01754385964912,26.666666666666668,1,High-volume adopters
+1613499295,FL,Family Practice,248.0,250.0,68.0,27.419354838709676,-0.8,1,High-volume adopters
+1056276975,GA,Internal Medicine,32.0,33.0,0.0,0.0,-3.0303030303030303,2,Low-volume traditionalists
+1471006101,PA,Physician Assistant,218.0,257.0,29.0,13.302752293577981,-15.17509727626459,1,High-volume adopters
+1317717195,IL,Internal Medicine,404.0,390.0,145.0,35.89108910891089,3.58974358974359,1,High-volume adopters
+1669432211,FL,Internal Medicine,175.0,179.0,80.0,45.714285714285715,-2.2346368715083798,1,High-volume adopters
+1710765754,GA,Family Practice,209.0,196.0,104.0,49.760765550239235,6.63265306122449,1,High-volume adopters
+1167486602,NY,Internal Medicine,328.0,290.0,137.0,41.76829268292683,13.10344827586207,1,High-volume adopters
+1937448643,CA,Internal Medicine,32.0,25.0,0.0,0.0,28.0,0,Low-volume adopters
+1871420743,PA,Endocrinology,56.0,49.0,18.0,32.142857142857146,14.285714285714286,0,Low-volume adopters
+1313881330,CA,Internal Medicine,163.0,189.0,78.0,47.852760736196316,-13.756613756613756,1,High-volume adopters
+1156792934,CA,Endocrinology,161.0,160.0,95.0,59.006211180124225,0.625,1,High-volume adopters
+1611564436,GA,Physician Assistant,124.0,109.0,57.0,45.96774193548387,13.761467889908257,1,High-volume adopters
+1461401840,MI,Physician Assistant,21.0,29.0,0.0,0.0,-27.586206896551722,2,Low-volume traditionalists
+1329993418,MA,Family Practice,36.0,29.0,0.0,0.0,24.137931034482758,0,Low-volume adopters
+1094011818,TX,Nurse Practitioner,379.0,371.0,223.0,58.83905013192612,2.1563342318059298,1,High-volume adopters
+1608249364,FL,Nurse Practitioner,38.0,34.0,13.0,34.21052631578947,11.764705882352942,0,Low-volume adopters
+1256507964,TX,Internal Medicine,27.0,34.0,0.0,0.0,-20.58823529411765,2,Low-volume traditionalists
+1902555900,GA,Internal Medicine,170.0,146.0,112.0,65.88235294117646,16.438356164383563,1,High-volume adopters
+1285032366,OH,Family Practice,12.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1098874234,PA,Family Practice,12.0,15.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1570526452,MI,Family Practice,280.0,270.0,55.0,19.642857142857142,3.7037037037037037,1,High-volume adopters
+1517821017,IL,Internal Medicine,17.0,27.0,0.0,0.0,-37.03703703703704,2,Low-volume traditionalists
+1541783897,NY,Family Practice,645.0,617.0,316.0,48.992248062015506,4.538087520259319,1,High-volume adopters
+1828123920,NY,Internal Medicine,26.0,29.0,0.0,0.0,-10.344827586206897,2,Low-volume traditionalists
+1580995662,IL,Internal Medicine,583.0,549.0,269.0,46.14065180102916,6.193078324225866,1,High-volume adopters
+1869395189,PA,Internal Medicine,122.0,119.0,13.0,10.655737704918034,2.5210084033613445,0,Low-volume adopters
+1191898107,GA,Family Practice,15.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1769126095,IL,Endocrinology,222.0,171.0,127.0,57.207207207207205,29.82456140350877,1,High-volume adopters
+1628923265,IL,Physician Assistant,27.0,32.0,0.0,0.0,-15.625,2,Low-volume traditionalists
+1366637205,MA,Family Practice,41.0,41.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1049711045,NC,Internal Medicine,156.0,153.0,74.0,47.43589743589744,1.9607843137254901,1,High-volume adopters
+1595029525,AZ,Family Practice,14.0,14.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1432968036,GA,Nurse Practitioner,348.0,341.0,129.0,37.06896551724138,2.0527859237536656,1,High-volume adopters
+1192636859,AZ,Internal Medicine,48.0,44.0,0.0,0.0,9.090909090909092,0,Low-volume adopters
+1426595524,NY,Cardiology,25.0,30.0,0.0,0.0,-16.666666666666668,2,Low-volume traditionalists
+1776715375,VA,Family Practice,310.0,287.0,176.0,56.774193548387096,8.013937282229966,1,High-volume adopters
+1283730917,MI,Family Practice,119.0,106.0,72.0,60.50420168067227,12.264150943396226,1,High-volume adopters
+1672436980,FL,Nurse Practitioner,239.0,205.0,157.0,65.69037656903765,16.585365853658537,1,High-volume adopters
+1735489890,PA,Nurse Practitioner,26.0,17.0,0.0,0.0,52.94117647058823,0,Low-volume adopters
+1094548228,WA,Family Practice,19.0,16.0,0.0,0.0,18.75,0,Low-volume adopters
+1591079879,OH,Physician Assistant,74.0,68.0,0.0,0.0,8.823529411764707,0,Low-volume adopters
+1794336007,NJ,Family Practice,317.0,295.0,169.0,53.31230283911672,7.4576271186440675,1,High-volume adopters
+1718583372,CA,Physician Assistant,60.0,70.0,0.0,0.0,-14.285714285714286,2,Low-volume traditionalists
+1475092614,WA,Family Practice,751.0,771.0,195.0,25.96537949400799,-2.594033722438392,1,High-volume adopters
+1363784144,WA,Family Practice,71.0,82.0,46.0,64.78873239436619,-13.414634146341463,1,High-volume adopters
+1203937456,FL,Internal Medicine,94.0,131.0,13.0,13.829787234042554,-28.244274809160306,2,Low-volume traditionalists
+1785106069,IL,Family Practice,48.0,56.0,0.0,0.0,-14.285714285714286,2,Low-volume traditionalists
+1885829414,NJ,Family Practice,175.0,146.0,69.0,39.42857142857143,19.863013698630137,1,High-volume adopters
+1952091472,MA,Family Practice,23.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1402490733,FL,Physician Assistant,324.0,325.0,153.0,47.22222222222222,-0.3076923076923077,1,High-volume adopters
+1774424235,NC,Nurse Practitioner,772.0,720.0,323.0,41.83937823834197,7.222222222222222,1,High-volume adopters
+1271894201,NC,Physician Assistant,166.0,161.0,94.0,56.626506024096386,3.1055900621118013,1,High-volume adopters
+1063981588,TX,Cardiology,27.0,20.0,0.0,0.0,35.0,0,Low-volume adopters
+1381620116,MA,Family Practice,22.0,18.0,0.0,0.0,22.22222222222222,0,Low-volume adopters
+1157485126,OH,Family Practice,138.0,93.0,76.0,55.072463768115945,48.38709677419355,3,High-volume traditionalists
+1733774251,WA,Internal Medicine,190.0,160.0,68.0,35.78947368421053,18.75,1,High-volume adopters
+1700131353,FL,Family Practice,153.0,147.0,85.0,55.55555555555556,4.081632653061225,1,High-volume adopters
+1963686949,AZ,Internal Medicine,118.0,52.0,56.0,47.45762711864407,126.92307692307692,3,High-volume traditionalists
+1881180980,NY,Family Practice,12.0,18.0,0.0,0.0,-33.333333333333336,2,Low-volume traditionalists
+1608827484,MA,Family Practice,115.0,74.0,57.0,49.56521739130435,55.4054054054054,3,High-volume traditionalists
+1027001308,CA,Family Practice,311.0,279.0,176.0,56.59163987138264,11.469534050179211,1,High-volume adopters
+1503929744,WA,Internal Medicine,32.0,36.0,11.0,34.375,-11.11111111111111,2,Low-volume traditionalists
+1399537471,MA,Physician Assistant,404.0,343.0,230.0,56.93069306930693,17.784256559766764,1,High-volume adopters
+1429063301,CA,Internal Medicine,12.0,15.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1373359111,MI,Family Practice,136.0,104.0,67.0,49.26470588235294,30.76923076923077,1,High-volume adopters
+1476033223,AZ,Family Practice,908.0,853.0,287.0,31.6079295154185,6.447831184056272,1,High-volume adopters
+1959689870,MA,Family Practice,21.0,32.0,0.0,0.0,-34.375,2,Low-volume traditionalists
+1640690917,NC,Endocrinology,65.0,20.0,39.0,60.0,225.0,3,High-volume traditionalists
+1435851943,OH,Internal Medicine,128.0,101.0,24.0,18.75,26.73267326732673,0,Low-volume adopters
+1056523840,FL,Nurse Practitioner,47.0,50.0,0.0,0.0,-6.0,2,Low-volume traditionalists
+1528709946,CA,Internal Medicine,67.0,37.0,11.0,16.417910447761194,81.08108108108108,3,High-volume traditionalists
+1601588374,CA,Family Practice,133.0,129.0,29.0,21.804511278195488,3.10077519379845,1,High-volume adopters
+1317026749,MI,Family Practice,32.0,33.0,0.0,0.0,-3.0303030303030303,2,Low-volume traditionalists
+1933443028,VA,Internal Medicine,299.0,273.0,120.0,40.13377926421405,9.523809523809524,1,High-volume adopters
+1706332078,GA,Family Practice,63.0,84.0,12.0,19.047619047619047,-25.0,2,Low-volume traditionalists
+1755874925,MA,Family Practice,135.0,117.0,61.0,45.18518518518518,15.384615384615385,1,High-volume adopters
+1618954866,TX,Internal Medicine,51.0,69.0,0.0,0.0,-26.08695652173913,2,Low-volume traditionalists
+1306917506,WA,Internal Medicine,146.0,104.0,69.0,47.26027397260274,40.38461538461539,3,High-volume traditionalists
+1059924369,MI,Internal Medicine,201.0,240.0,67.0,33.333333333333336,-16.25,1,High-volume adopters
+1557571520,MA,Internal Medicine,479.0,433.0,246.0,51.356993736951985,10.623556581986143,1,High-volume adopters
+1656594843,OH,Family Practice,31.0,38.0,0.0,0.0,-18.42105263157895,2,Low-volume traditionalists
+1601880829,MA,Internal Medicine,18.0,26.0,0.0,0.0,-30.76923076923077,2,Low-volume traditionalists
+1443472748,NC,Endocrinology,215.0,180.0,133.0,61.86046511627907,19.444444444444443,1,High-volume adopters
+1326555738,NJ,Internal Medicine,62.0,42.0,25.0,40.32258064516129,47.61904761904762,3,High-volume traditionalists
+1588667683,NC,Endocrinology,17.0,20.0,0.0,0.0,-15.0,2,Low-volume traditionalists
+1265599192,MI,Internal Medicine,291.0,277.0,128.0,43.986254295532646,5.054151624548736,1,High-volume adopters
+1610612866,FL,Internal Medicine,216.0,212.0,91.0,42.129629629629626,1.8867924528301887,1,High-volume adopters
+1309645534,GA,Family Practice,231.0,210.0,104.0,45.02164502164502,10.0,1,High-volume adopters
+1199239940,IL,Internal Medicine,247.0,218.0,145.0,58.70445344129555,13.302752293577981,1,High-volume adopters
+1827008905,PA,Internal Medicine,91.0,95.0,35.0,38.46153846153846,-4.2105263157894735,1,High-volume adopters
+1421363829,MA,Nurse Practitioner,34.0,35.0,0.0,0.0,-2.857142857142857,2,Low-volume traditionalists
+1629718762,NJ,Internal Medicine,16.0,15.0,0.0,0.0,6.666666666666667,2,Low-volume traditionalists
+1588968577,CA,Internal Medicine,34.0,30.0,0.0,0.0,13.333333333333334,0,Low-volume adopters
+1252719047,NJ,Physician Assistant,76.0,44.0,31.0,40.78947368421053,72.72727272727273,3,High-volume traditionalists
+1910281271,VA,Nurse Practitioner,34.0,60.0,11.0,32.35294117647059,-43.333333333333336,2,Low-volume traditionalists
+1485930715,OH,Physician Assistant,283.0,236.0,158.0,55.830388692579504,19.915254237288135,1,High-volume adopters
+1092666719,OH,Endocrinology,108.0,80.0,47.0,43.51851851851852,35.0,1,High-volume adopters
+1943150788,NY,Internal Medicine,467.0,382.0,238.0,50.96359743040685,22.25130890052356,1,High-volume adopters
+1341566876,TX,Nurse Practitioner,232.0,198.0,106.0,45.689655172413794,17.171717171717173,1,High-volume adopters
+1138804478,GA,Endocrinology,43.0,41.0,11.0,25.58139534883721,4.878048780487805,0,Low-volume adopters
+1428351903,WA,Nurse Practitioner,106.0,71.0,61.0,57.54716981132076,49.29577464788732,3,High-volume traditionalists
+1501417347,TX,Family Practice,35.0,28.0,0.0,0.0,25.0,0,Low-volume adopters
+1349228906,VA,Internal Medicine,203.0,220.0,124.0,61.083743842364534,-7.7272727272727275,1,High-volume adopters
+1637167780,AZ,Cardiology,392.0,356.0,171.0,43.62244897959184,10.112359550561798,1,High-volume adopters
+1202470331,CA,Family Practice,73.0,71.0,27.0,36.986301369863014,2.816901408450704,1,High-volume adopters
+1630661796,CA,Internal Medicine,797.0,796.0,269.0,33.75156838143037,0.12562814070351758,1,High-volume adopters
+1812246960,NY,Internal Medicine,107.0,80.0,25.0,23.364485981308412,33.75,0,Low-volume adopters
+1063891281,TX,Family Practice,49.0,46.0,0.0,0.0,6.521739130434782,0,Low-volume adopters
+1534240110,NY,Internal Medicine,126.0,92.0,25.0,19.841269841269842,36.95652173913044,0,Low-volume adopters
+1384343973,CA,Physician Assistant,24.0,31.0,0.0,0.0,-22.580645161290324,2,Low-volume traditionalists
+1299127921,NC,Internal Medicine,32.0,20.0,0.0,0.0,60.0,0,Low-volume adopters
+1005836587,WA,Family Practice,19.0,22.0,0.0,0.0,-13.636363636363637,2,Low-volume traditionalists
+1608072048,IL,Internal Medicine,12.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1253155450,MI,Family Practice,192.0,196.0,100.0,52.083333333333336,-2.0408163265306123,1,High-volume adopters
+1961835898,NC,Internal Medicine,130.0,127.0,55.0,42.30769230769231,2.3622047244094486,1,High-volume adopters
+1670609791,TX,Endocrinology,93.0,92.0,54.0,58.064516129032256,1.0869565217391304,1,High-volume adopters
+1625247935,VA,Family Practice,306.0,281.0,102.0,33.333333333333336,8.896797153024911,1,High-volume adopters
+1375207058,VA,Family Practice,89.0,104.0,0.0,0.0,-14.423076923076923,2,Low-volume traditionalists
+1091567709,NC,Family Practice,252.0,235.0,59.0,23.41269841269841,7.23404255319149,1,High-volume adopters
+1593927217,OH,Family Practice,55.0,52.0,0.0,0.0,5.769230769230769,0,Low-volume adopters
+1331962615,OH,Physician Assistant,66.0,64.0,14.0,21.21212121212121,3.125,0,Low-volume adopters
+1055593319,MA,Physician Assistant,35.0,48.0,0.0,0.0,-27.083333333333332,2,Low-volume traditionalists
+1401953062,CA,Internal Medicine,20.0,24.0,0.0,0.0,-16.666666666666668,2,Low-volume traditionalists
+1603570957,VA,Nurse Practitioner,28.0,22.0,0.0,0.0,27.272727272727273,0,Low-volume adopters
+1508751323,IL,Internal Medicine,67.0,72.0,14.0,20.895522388059703,-6.944444444444445,2,Low-volume traditionalists
+1893617835,IL,Nurse Practitioner,59.0,33.0,14.0,23.728813559322035,78.78787878787878,3,High-volume traditionalists
+1740409827,MA,Cardiology,97.0,80.0,42.0,43.29896907216495,21.25,1,High-volume adopters
+1800083063,NJ,Internal Medicine,37.0,24.0,0.0,0.0,54.166666666666664,0,Low-volume adopters
+1369333320,VA,Physician Assistant,253.0,245.0,50.0,19.76284584980237,3.2653061224489797,1,High-volume adopters
+1766393605,NC,Internal Medicine,32.0,31.0,0.0,0.0,3.225806451612903,2,Low-volume traditionalists
+1671896690,AZ,Internal Medicine,80.0,100.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1961742584,GA,Family Practice,249.0,247.0,88.0,35.34136546184739,0.8097165991902834,1,High-volume adopters
+1486814967,NC,Family Practice,173.0,158.0,95.0,54.91329479768786,9.49367088607595,1,High-volume adopters
+1123546572,FL,Internal Medicine,152.0,127.0,69.0,45.39473684210526,19.68503937007874,1,High-volume adopters
+1575021238,NC,Family Practice,32.0,24.0,0.0,0.0,33.333333333333336,0,Low-volume adopters
+1551563049,IL,Family Practice,581.0,567.0,300.0,51.63511187607573,2.4691358024691357,1,High-volume adopters
+1050401394,MI,Nurse Practitioner,241.0,221.0,85.0,35.26970954356847,9.049773755656108,1,High-volume adopters
+1941528948,TX,Family Practice,37.0,46.0,0.0,0.0,-19.565217391304348,2,Low-volume traditionalists
+1595938803,GA,Physician Assistant,87.0,75.0,38.0,43.67816091954023,16.0,1,High-volume adopters
+1072066732,MA,Internal Medicine,16.0,14.0,0.0,0.0,14.285714285714286,0,Low-volume adopters
+1908577078,AZ,Cardiology,12.0,19.0,0.0,0.0,-36.8421052631579,2,Low-volume traditionalists
+1520277930,CA,Physician Assistant,27.0,44.0,0.0,0.0,-38.63636363636363,2,Low-volume traditionalists
+1801161412,GA,Family Practice,36.0,45.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1848975622,FL,Nurse Practitioner,36.0,39.0,0.0,0.0,-7.6923076923076925,2,Low-volume traditionalists
+1310078154,WA,Internal Medicine,56.0,68.0,0.0,0.0,-17.647058823529413,2,Low-volume traditionalists
+1558990339,FL,Endocrinology,121.0,102.0,71.0,58.67768595041322,18.627450980392158,1,High-volume adopters
+1883265413,NC,Family Practice,358.0,356.0,128.0,35.754189944134076,0.5617977528089888,1,High-volume adopters
+1154054236,NY,Family Practice,167.0,167.0,60.0,35.92814371257485,0.0,1,High-volume adopters
+1074557498,MA,Family Practice,125.0,68.0,23.0,18.4,83.82352941176471,3,High-volume traditionalists
+1929551679,OH,Internal Medicine,36.0,44.0,0.0,0.0,-18.181818181818183,2,Low-volume traditionalists
+1551438113,IL,Nurse Practitioner,267.0,261.0,117.0,43.82022471910113,2.2988505747126435,1,High-volume adopters
+1561666375,TX,Family Practice,25.0,37.0,0.0,0.0,-32.432432432432435,2,Low-volume traditionalists
+1298076150,MI,Family Practice,67.0,37.0,23.0,34.32835820895522,81.08108108108108,3,High-volume traditionalists
+1811836068,VA,Physician Assistant,43.0,50.0,0.0,0.0,-14.0,2,Low-volume traditionalists
+1373693276,NC,Nurse Practitioner,14.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1580805930,FL,Internal Medicine,110.0,131.0,50.0,45.45454545454545,-16.03053435114504,1,High-volume adopters
+1520961489,NY,Physician Assistant,189.0,190.0,102.0,53.96825396825397,-0.5263157894736842,1,High-volume adopters
+1455050668,CA,Family Practice,151.0,151.0,29.0,19.205298013245034,0.0,1,High-volume adopters
+1082129803,NJ,Family Practice,37.0,52.0,0.0,0.0,-28.846153846153847,2,Low-volume traditionalists
+1241605369,NJ,Endocrinology,75.0,75.0,39.0,52.0,0.0,1,High-volume adopters
+1523426453,WA,Physician Assistant,34.0,47.0,0.0,0.0,-27.659574468085108,2,Low-volume traditionalists
+1662226372,OH,Family Practice,183.0,202.0,73.0,39.89071038251366,-9.405940594059405,1,High-volume adopters
+1104740988,PA,Endocrinology,398.0,354.0,218.0,54.77386934673367,12.429378531073446,1,High-volume adopters
+1860263221,NC,Nurse Practitioner,110.0,82.0,64.0,58.18181818181818,34.146341463414636,1,High-volume adopters
+1205935559,OH,Family Practice,229.0,188.0,104.0,45.414847161572055,21.80851063829787,1,High-volume adopters
+1879222065,CA,Family Practice,26.0,25.0,0.0,0.0,4.0,2,Low-volume traditionalists
+1447676728,NJ,Nurse Practitioner,79.0,57.0,27.0,34.177215189873415,38.59649122807018,3,High-volume traditionalists
+1964586721,NC,Nurse Practitioner,289.0,279.0,123.0,42.56055363321799,3.5842293906810037,1,High-volume adopters
+1362440306,GA,Physician Assistant,231.0,190.0,97.0,41.99134199134199,21.57894736842105,1,High-volume adopters
+1308957319,NY,Cardiology,23.0,19.0,0.0,0.0,21.05263157894737,0,Low-volume adopters
+1591223148,MA,Family Practice,598.0,514.0,195.0,32.608695652173914,16.342412451361866,1,High-volume adopters
+1660941219,CA,Family Practice,44.0,38.0,0.0,0.0,15.789473684210526,0,Low-volume adopters
+1291494312,GA,Family Practice,65.0,50.0,11.0,16.923076923076923,30.0,0,Low-volume adopters
+1779785619,NJ,Internal Medicine,22.0,17.0,0.0,0.0,29.41176470588235,0,Low-volume adopters
+1957091822,GA,Family Practice,21.0,15.0,0.0,0.0,40.0,0,Low-volume adopters
+1596748268,NJ,Internal Medicine,1841.0,1653.0,522.0,28.354155350353068,11.373260738052027,1,High-volume adopters
+1752585170,GA,Nurse Practitioner,39.0,32.0,0.0,0.0,21.875,0,Low-volume adopters
+1882756648,TX,Family Practice,197.0,205.0,62.0,31.472081218274113,-3.902439024390244,1,High-volume adopters
+1224791098,FL,Nurse Practitioner,160.0,159.0,67.0,41.875,0.6289308176100629,1,High-volume adopters
+1238641534,TX,Cardiology,107.0,121.0,27.0,25.233644859813083,-11.570247933884298,1,High-volume adopters
+1244172571,AZ,Endocrinology,70.0,36.0,37.0,52.857142857142854,94.44444444444444,3,High-volume traditionalists
+1582124548,VA,Nurse Practitioner,14.0,19.0,0.0,0.0,-26.31578947368421,2,Low-volume traditionalists
+1693224177,NC,Physician Assistant,45.0,54.0,0.0,0.0,-16.666666666666668,2,Low-volume traditionalists
+1112254414,OH,Physician Assistant,89.0,86.0,0.0,0.0,3.488372093023256,0,Low-volume adopters
+1836980699,MA,Family Practice,19.0,19.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1316267142,AZ,Family Practice,37.0,62.0,0.0,0.0,-40.32258064516129,2,Low-volume traditionalists
+1089885050,NJ,Family Practice,24.0,19.0,0.0,0.0,26.31578947368421,0,Low-volume adopters
+1101389444,OH,Physician Assistant,146.0,144.0,61.0,41.78082191780822,1.3888888888888888,1,High-volume adopters
+1786601033,MA,Internal Medicine,44.0,40.0,0.0,0.0,10.0,0,Low-volume adopters
+1362962942,GA,Physician Assistant,17.0,13.0,0.0,0.0,30.76923076923077,0,Low-volume adopters
+1933838594,PA,Internal Medicine,34.0,24.0,11.0,32.35294117647059,41.666666666666664,3,High-volume traditionalists
+1813341314,FL,Family Practice,31.0,20.0,0.0,0.0,55.0,0,Low-volume adopters
+1731453041,GA,Nurse Practitioner,184.0,206.0,28.0,15.217391304347826,-10.679611650485437,1,High-volume adopters
+1954382612,GA,Internal Medicine,11.0,17.0,0.0,0.0,-35.294117647058826,2,Low-volume traditionalists
+1006109545,GA,Nurse Practitioner,13.0,15.0,0.0,0.0,-13.333333333333334,2,Low-volume traditionalists
+1894394708,IL,Physician Assistant,98.0,68.0,40.0,40.816326530612244,44.11764705882353,3,High-volume traditionalists
+1721114587,AZ,Family Practice,37.0,51.0,0.0,0.0,-27.45098039215686,2,Low-volume traditionalists
+1522063603,MI,Family Practice,47.0,58.0,0.0,0.0,-18.96551724137931,2,Low-volume traditionalists
+1132579600,OH,Family Practice,149.0,157.0,52.0,34.899328859060404,-5.095541401273885,1,High-volume adopters
+1481996783,WA,Family Practice,38.0,49.0,0.0,0.0,-22.448979591836736,2,Low-volume traditionalists
+1788761902,VA,Internal Medicine,34.0,38.0,0.0,0.0,-10.526315789473685,2,Low-volume traditionalists
+1246107430,NY,Internal Medicine,294.0,265.0,136.0,46.25850340136054,10.943396226415095,1,High-volume adopters
+1271153024,GA,Family Practice,688.0,686.0,188.0,27.325581395348838,0.2915451895043732,1,High-volume adopters
+1175023211,PA,Family Practice,71.0,115.0,11.0,15.492957746478874,-38.26086956521739,2,Low-volume traditionalists
+1590726605,OH,Family Practice,29.0,31.0,0.0,0.0,-6.451612903225806,2,Low-volume traditionalists
+1755582761,VA,Family Practice,17.0,24.0,0.0,0.0,-29.166666666666668,2,Low-volume traditionalists
+1628031253,VA,Cardiology,98.0,63.0,48.0,48.97959183673469,55.55555555555556,3,High-volume traditionalists
+1715655621,PA,Internal Medicine,63.0,37.0,14.0,22.22222222222222,70.27027027027027,3,High-volume traditionalists
+1006457678,TX,Nurse Practitioner,194.0,160.0,55.0,28.350515463917525,21.25,1,High-volume adopters
+1612504560,MI,Internal Medicine,180.0,163.0,57.0,31.666666666666668,10.429447852760736,1,High-volume adopters
+1387532266,MA,Endocrinology,175.0,130.0,127.0,72.57142857142857,34.61538461538461,1,High-volume adopters
+1102392230,NJ,Internal Medicine,104.0,79.0,59.0,56.73076923076923,31.645569620253166,1,High-volume adopters
+1400388549,NJ,Family Practice,149.0,150.0,86.0,57.718120805369125,-0.6666666666666666,1,High-volume adopters
+1178717359,CA,Family Practice,21.0,28.0,0.0,0.0,-25.0,2,Low-volume traditionalists
+1821819890,NC,Internal Medicine,580.0,566.0,237.0,40.86206896551724,2.4734982332155475,1,High-volume adopters
+1916712274,NJ,Family Practice,369.0,338.0,144.0,39.02439024390244,9.171597633136095,1,High-volume adopters
+1956459770,FL,Family Practice,158.0,130.0,35.0,22.151898734177216,21.53846153846154,1,High-volume adopters
+1477431090,MA,Family Practice,136.0,116.0,29.0,21.323529411764707,17.24137931034483,1,High-volume adopters
+1227716715,WA,Physician Assistant,31.0,15.0,12.0,38.70967741935484,106.66666666666667,3,High-volume traditionalists
+1516617150,GA,Endocrinology,262.0,285.0,144.0,54.961832061068705,-8.070175438596491,1,High-volume adopters
+1054639809,CA,Family Practice,481.0,414.0,261.0,54.26195426195426,16.183574879227052,1,High-volume adopters
+1946871611,MI,Nurse Practitioner,178.0,161.0,97.0,54.49438202247191,10.559006211180124,1,High-volume adopters
+1085226625,CA,Physician Assistant,60.0,30.0,28.0,46.666666666666664,100.0,3,High-volume traditionalists
+1929457104,OH,Internal Medicine,253.0,258.0,130.0,51.383399209486164,-1.937984496124031,1,High-volume adopters
+1068373263,NY,Physician Assistant,230.0,169.0,116.0,50.43478260869565,36.094674556213015,1,High-volume adopters
+1909400899,IL,Internal Medicine,359.0,363.0,136.0,37.883008356545965,-1.1019283746556474,1,High-volume adopters
+1607382378,VA,Family Practice,11.0,17.0,0.0,0.0,-35.294117647058826,2,Low-volume traditionalists
+1146454868,NJ,Nurse Practitioner,346.0,325.0,132.0,38.15028901734104,6.461538461538462,1,High-volume adopters
+1890473968,NJ,Internal Medicine,261.0,249.0,127.0,48.65900383141762,4.819277108433735,1,High-volume adopters
+1366265986,PA,Family Practice,48.0,51.0,11.0,22.916666666666668,-5.882352941176471,2,Low-volume traditionalists
+1126101746,IL,Cardiology,108.0,105.0,66.0,61.111111111111114,2.857142857142857,1,High-volume adopters
+1786549429,IL,Internal Medicine,108.0,100.0,48.0,44.44444444444444,8.0,1,High-volume adopters
+1331336868,WA,Internal Medicine,108.0,126.0,24.0,22.22222222222222,-14.285714285714286,1,High-volume adopters
+1614224176,FL,Internal Medicine,187.0,169.0,47.0,25.13368983957219,10.650887573964496,1,High-volume adopters
+1661371220,VA,Internal Medicine,71.0,62.0,43.0,60.563380281690144,14.516129032258064,1,High-volume adopters
+1523841031,TX,Physician Assistant,613.0,546.0,240.0,39.151712887438826,12.271062271062272,1,High-volume adopters
+1290118464,FL,Endocrinology,113.0,125.0,62.0,54.86725663716814,-9.6,1,High-volume adopters
+1904550608,TX,Family Practice,40.0,36.0,0.0,0.0,11.11111111111111,0,Low-volume adopters
+1216261306,CA,Internal Medicine,74.0,49.0,0.0,0.0,51.02040816326531,0,Low-volume adopters
+1961130999,TX,Family Practice,240.0,203.0,56.0,23.333333333333332,18.226600985221676,1,High-volume adopters
+1682321668,NC,Internal Medicine,645.0,623.0,236.0,36.58914728682171,3.5313001605136436,1,High-volume adopters
+1961726676,MI,Internal Medicine,18.0,25.0,0.0,0.0,-28.0,2,Low-volume traditionalists
+1295164986,OH,Nurse Practitioner,23.0,20.0,12.0,52.17391304347826,15.0,1,High-volume adopters
+1896544616,NC,Internal Medicine,81.0,71.0,28.0,34.5679012345679,14.084507042253522,1,High-volume adopters
+1743070731,FL,Family Practice,17.0,27.0,0.0,0.0,-37.03703703703704,2,Low-volume traditionalists
+1567220595,NC,Endocrinology,124.0,129.0,54.0,43.54838709677419,-3.875968992248062,1,High-volume adopters
+1147292463,AZ,Nurse Practitioner,60.0,41.0,24.0,40.0,46.34146341463415,3,High-volume traditionalists
+1555117032,WA,Internal Medicine,18.0,13.0,0.0,0.0,38.46153846153846,0,Low-volume adopters
+1819845455,VA,Family Practice,18.0,12.0,0.0,0.0,50.0,0,Low-volume adopters
+1074634225,IL,Internal Medicine,183.0,166.0,61.0,33.333333333333336,10.240963855421686,1,High-volume adopters
+1372571277,NJ,Family Practice,157.0,136.0,57.0,36.30573248407644,15.441176470588236,1,High-volume adopters
+1452775242,IL,Internal Medicine,106.0,138.0,0.0,0.0,-23.18840579710145,2,Low-volume traditionalists
+1461530559,MA,Internal Medicine,115.0,107.0,37.0,32.17391304347826,7.4766355140186915,1,High-volume adopters
+1285717574,FL,Internal Medicine,26.0,24.0,0.0,0.0,8.333333333333334,0,Low-volume adopters
+1613429746,NY,Internal Medicine,76.0,55.0,28.0,36.8421052631579,38.18181818181818,3,High-volume traditionalists
+1139637126,CA,Nurse Practitioner,11.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1618321068,PA,Family Practice,56.0,41.0,15.0,26.785714285714285,36.58536585365854,0,Low-volume adopters
+1869356971,NC,Internal Medicine,16.0,13.0,0.0,0.0,23.076923076923077,0,Low-volume adopters
+1051691300,NJ,Family Practice,57.0,44.0,11.0,19.29824561403509,29.545454545454547,0,Low-volume adopters
+1542395967,PA,Endocrinology,316.0,287.0,150.0,47.46835443037975,10.104529616724738,1,High-volume adopters
+1614899296,WA,Internal Medicine,210.0,229.0,66.0,31.428571428571427,-8.296943231441048,1,High-volume adopters
+1918466519,OH,Internal Medicine,15.0,11.0,0.0,0.0,36.36363636363637,0,Low-volume adopters
+1072804029,CA,Family Practice,80.0,63.0,33.0,41.25,26.984126984126984,1,High-volume adopters
+1727363812,NY,Internal Medicine,68.0,42.0,28.0,41.1764705882353,61.904761904761905,3,High-volume traditionalists
+1641169612,FL,Internal Medicine,70.0,39.0,26.0,37.142857142857146,79.48717948717949,3,High-volume traditionalists
+1469530052,NJ,Internal Medicine,14.0,22.0,0.0,0.0,-36.36363636363637,2,Low-volume traditionalists
+1706483689,NC,Family Practice,34.0,36.0,0.0,0.0,-5.555555555555555,2,Low-volume traditionalists
+1275150103,OH,Family Practice,54.0,32.0,11.0,20.37037037037037,68.75,3,High-volume traditionalists
+1871868398,AZ,Family Practice,403.0,376.0,173.0,42.92803970223325,7.180851063829787,1,High-volume adopters
+1686884257,NC,Family Practice,32.0,28.0,0.0,0.0,14.285714285714286,0,Low-volume adopters
+1700970403,TX,Internal Medicine,33.0,24.0,0.0,0.0,37.5,0,Low-volume adopters
+1495306541,GA,Family Practice,28.0,39.0,0.0,0.0,-28.205128205128204,2,Low-volume traditionalists
+1897612392,VA,Internal Medicine,263.0,269.0,111.0,42.20532319391635,-2.2304832713754648,1,High-volume adopters
+1590999563,TX,Family Practice,227.0,254.0,94.0,41.409691629955944,-10.62992125984252,1,High-volume adopters
+1116353828,AZ,Family Practice,18.0,20.0,0.0,0.0,-10.0,2,Low-volume traditionalists
+1276206724,AZ,Physician Assistant,230.0,203.0,117.0,50.869565217391305,13.300492610837438,1,High-volume adopters
+1951201303,GA,Cardiology,61.0,66.0,0.0,0.0,-7.575757575757576,2,Low-volume traditionalists
+1249212012,OH,Nurse Practitioner,614.0,599.0,347.0,56.51465798045603,2.5041736227045077,1,High-volume adopters
+1875739086,MI,Cardiology,541.0,520.0,155.0,28.650646950092423,4.038461538461538,1,High-volume adopters
+1541662744,FL,Physician Assistant,97.0,82.0,58.0,59.79381443298969,18.29268292682927,1,High-volume adopters
+1647716821,WA,Family Practice,56.0,67.0,13.0,23.214285714285715,-16.417910447761194,2,Low-volume traditionalists
+1644885779,VA,Family Practice,180.0,158.0,97.0,53.888888888888886,13.924050632911392,1,High-volume adopters
+1835353815,TX,Internal Medicine,32.0,21.0,0.0,0.0,52.38095238095238,0,Low-volume adopters
+1520794261,OH,Internal Medicine,491.0,487.0,170.0,34.623217922606926,0.8213552361396304,1,High-volume adopters
+1789922022,WA,Family Practice,32.0,38.0,0.0,0.0,-15.789473684210526,2,Low-volume traditionalists
+1411089589,NC,Nurse Practitioner,54.0,56.0,0.0,0.0,-3.5714285714285716,2,Low-volume traditionalists
+1511041105,NJ,Internal Medicine,25.0,14.0,0.0,0.0,78.57142857142857,0,Low-volume adopters
+1647453951,GA,Internal Medicine,417.0,429.0,92.0,22.062350119904078,-2.797202797202797,1,High-volume adopters
+1688721146,CA,Family Practice,180.0,180.0,82.0,45.55555555555556,0.0,1,High-volume adopters
+1811840142,CA,Internal Medicine,151.0,129.0,60.0,39.735099337748345,17.05426356589147,1,High-volume adopters
+1926634307,CA,Family Practice,46.0,37.0,12.0,26.08695652173913,24.324324324324323,0,Low-volume adopters
+1396176130,PA,Family Practice,64.0,38.0,27.0,42.1875,68.42105263157895,3,High-volume traditionalists
+1039451452,GA,Internal Medicine,161.0,152.0,74.0,45.962732919254655,5.921052631578948,1,High-volume adopters
+1858606170,NJ,Cardiology,33.0,32.0,0.0,0.0,3.125,2,Low-volume traditionalists
+1049429260,NY,Family Practice,433.0,449.0,198.0,45.72748267898383,-3.56347438752784,1,High-volume adopters
+1315149799,OH,Internal Medicine,664.0,614.0,209.0,31.47590361445783,8.143322475570033,1,High-volume adopters
+1953676355,FL,Family Practice,229.0,212.0,97.0,42.35807860262009,8.018867924528301,1,High-volume adopters
+1159919438,IL,Family Practice,32.0,30.0,0.0,0.0,6.666666666666667,0,Low-volume adopters
+1234165663,VA,Family Practice,161.0,151.0,75.0,46.58385093167702,6.622516556291391,1,High-volume adopters
+1590758421,TX,Family Practice,27.0,40.0,0.0,0.0,-32.5,2,Low-volume traditionalists
+1623018584,NC,Family Practice,18.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1817634340,TX,Internal Medicine,61.0,83.0,0.0,0.0,-26.50602409638554,2,Low-volume traditionalists
+1444528690,PA,Family Practice,75.0,59.0,27.0,36.0,27.11864406779661,1,High-volume adopters
+1432390110,GA,Family Practice,60.0,47.0,27.0,45.0,27.659574468085108,1,High-volume adopters
+1859272269,AZ,Physician Assistant,129.0,99.0,42.0,32.55813953488372,30.303030303030305,1,High-volume adopters
+1382343930,CA,Endocrinology,68.0,76.0,30.0,44.11764705882353,-10.526315789473685,1,High-volume adopters
+1074487076,VA,Family Practice,21.0,22.0,0.0,0.0,-4.545454545454546,2,Low-volume traditionalists
+1682439232,PA,Family Practice,24.0,33.0,0.0,0.0,-27.272727272727273,2,Low-volume traditionalists
+1937699679,VA,Internal Medicine,82.0,53.0,25.0,30.48780487804878,54.716981132075475,3,High-volume traditionalists
+1128444975,IL,Nurse Practitioner,40.0,41.0,0.0,0.0,-2.4390243902439024,2,Low-volume traditionalists
+1425618055,OH,Internal Medicine,46.0,27.0,0.0,0.0,70.37037037037037,0,Low-volume adopters
+1295240064,WA,Internal Medicine,2835.0,2799.0,730.0,25.749559082892418,1.2861736334405145,1,High-volume adopters
+1008901399,IL,Internal Medicine,52.0,45.0,0.0,0.0,15.555555555555555,0,Low-volume adopters
+1461132665,MA,Family Practice,35.0,48.0,0.0,0.0,-27.083333333333332,2,Low-volume traditionalists
+1423399568,NC,Internal Medicine,60.0,59.0,0.0,0.0,1.694915254237288,2,Low-volume traditionalists
+1263293987,AZ,Physician Assistant,303.0,284.0,137.0,45.21452145214521,6.690140845070423,1,High-volume adopters
+1255761840,MA,Endocrinology,52.0,33.0,26.0,50.0,57.57575757575758,3,High-volume traditionalists
+1521488684,IL,Nurse Practitioner,84.0,74.0,29.0,34.523809523809526,13.513513513513514,1,High-volume adopters
+1223926537,TX,Cardiology,213.0,170.0,67.0,31.455399061032864,25.294117647058822,1,High-volume adopters
+1070204041,NC,Internal Medicine,22.0,36.0,0.0,0.0,-38.888888888888886,2,Low-volume traditionalists
+1859532326,IL,Family Practice,60.0,60.0,23.0,38.333333333333336,0.0,1,High-volume adopters
+1943358368,MI,Internal Medicine,48.0,57.0,0.0,0.0,-15.789473684210526,2,Low-volume traditionalists
+1055176316,IL,Family Practice,489.0,456.0,243.0,49.693251533742334,7.2368421052631575,1,High-volume adopters
+1675841001,WA,Internal Medicine,29.0,36.0,0.0,0.0,-19.444444444444443,2,Low-volume traditionalists
+1090411760,TX,Nurse Practitioner,173.0,192.0,89.0,51.445086705202314,-9.895833333333334,1,High-volume adopters
+1608704682,FL,Endocrinology,39.0,51.0,14.0,35.8974358974359,-23.529411764705884,2,Low-volume traditionalists
+1749493586,CA,Internal Medicine,175.0,164.0,76.0,43.42857142857143,6.7073170731707314,1,High-volume adopters
+1346436470,CA,Endocrinology,891.0,910.0,459.0,51.515151515151516,-2.087912087912088,1,High-volume adopters
+1270832730,VA,Endocrinology,160.0,136.0,89.0,55.625,17.647058823529413,1,High-volume adopters
+1396539880,MA,Family Practice,86.0,72.0,22.0,25.58139534883721,19.444444444444443,0,Low-volume adopters
+1969423626,NJ,Internal Medicine,195.0,208.0,43.0,22.05128205128205,-6.25,1,High-volume adopters
+1252205723,OH,Family Practice,14.0,14.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1850247098,TX,Physician Assistant,17.0,19.0,0.0,0.0,-10.526315789473685,2,Low-volume traditionalists
+1878982863,MI,Internal Medicine,13.0,20.0,0.0,0.0,-35.0,2,Low-volume traditionalists
+1006342345,NC,Family Practice,177.0,160.0,69.0,38.983050847457626,10.625,1,High-volume adopters
+1386732501,GA,Internal Medicine,17.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1575419714,VA,Nurse Practitioner,172.0,168.0,26.0,15.116279069767442,2.380952380952381,1,High-volume adopters
+1622593724,CA,Internal Medicine,67.0,54.0,0.0,0.0,24.074074074074073,0,Low-volume adopters
+1016528994,VA,Endocrinology,205.0,201.0,126.0,61.46341463414634,1.9900497512437811,1,High-volume adopters
+1192406387,VA,Nurse Practitioner,40.0,39.0,0.0,0.0,2.5641025641025643,2,Low-volume traditionalists
+1033527953,GA,Nurse Practitioner,33.0,41.0,0.0,0.0,-19.51219512195122,2,Low-volume traditionalists
+1546712661,AZ,Internal Medicine,28.0,29.0,0.0,0.0,-3.4482758620689653,2,Low-volume traditionalists
+1248265874,PA,Internal Medicine,30.0,33.0,0.0,0.0,-9.090909090909092,2,Low-volume traditionalists
+1563975363,IL,Internal Medicine,322.0,282.0,75.0,23.29192546583851,14.184397163120567,1,High-volume adopters
+1767197153,OH,Family Practice,77.0,53.0,40.0,51.94805194805195,45.283018867924525,3,High-volume traditionalists
+1660395497,PA,Nurse Practitioner,93.0,88.0,0.0,0.0,5.681818181818182,0,Low-volume adopters
+1966730809,CA,Physician Assistant,114.0,92.0,44.0,38.59649122807018,23.91304347826087,1,High-volume adopters
+1428062552,NC,Internal Medicine,16.0,14.0,0.0,0.0,14.285714285714286,0,Low-volume adopters
+1447625900,VA,Family Practice,83.0,82.0,32.0,38.55421686746988,1.2195121951219512,1,High-volume adopters
+1895952625,VA,Family Practice,27.0,20.0,0.0,0.0,35.0,0,Low-volume adopters
+1379009070,IL,Internal Medicine,34.0,29.0,0.0,0.0,17.24137931034483,0,Low-volume adopters
+1306543377,NJ,Family Practice,34.0,23.0,0.0,0.0,47.82608695652174,0,Low-volume adopters
+1939572846,NJ,Physician Assistant,18.0,23.0,0.0,0.0,-21.73913043478261,2,Low-volume traditionalists
+1505997493,FL,Family Practice,35.0,38.0,0.0,0.0,-7.894736842105263,2,Low-volume traditionalists
+1562299009,AZ,Family Practice,106.0,90.0,61.0,57.54716981132076,17.77777777777778,1,High-volume adopters
+1727019171,MI,Family Practice,171.0,176.0,96.0,56.14035087719298,-2.840909090909091,1,High-volume adopters
+1633796739,NY,Nurse Practitioner,44.0,47.0,0.0,0.0,-6.382978723404255,2,Low-volume traditionalists
+1189109842,FL,Internal Medicine,185.0,162.0,44.0,23.783783783783782,14.197530864197532,1,High-volume adopters
+1350649374,NJ,Internal Medicine,34.0,31.0,0.0,0.0,9.67741935483871,0,Low-volume adopters
+1836462331,FL,Family Practice,159.0,93.0,44.0,27.67295597484277,70.96774193548387,3,High-volume traditionalists
+1523740636,NY,Internal Medicine,61.0,64.0,28.0,45.90163934426229,-4.6875,1,High-volume adopters
+1054076530,GA,Internal Medicine,251.0,252.0,104.0,41.43426294820717,-0.3968253968253968,1,High-volume adopters
+1720858895,FL,Internal Medicine,238.0,183.0,82.0,34.45378151260504,30.05464480874317,1,High-volume adopters
+1889797490,MI,Internal Medicine,77.0,40.0,27.0,35.064935064935064,92.5,3,High-volume traditionalists
+1114218567,MI,Internal Medicine,23.0,21.0,0.0,0.0,9.523809523809524,0,Low-volume adopters
+1457917115,AZ,Cardiology,218.0,210.0,97.0,44.4954128440367,3.8095238095238093,1,High-volume adopters
+1152063020,CA,Nurse Practitioner,41.0,56.0,0.0,0.0,-26.785714285714285,2,Low-volume traditionalists
+1454867338,VA,Internal Medicine,85.0,59.0,27.0,31.764705882352942,44.067796610169495,3,High-volume traditionalists
+1809214740,PA,Family Practice,23.0,20.0,0.0,0.0,15.0,0,Low-volume adopters
+1817817088,FL,Nurse Practitioner,31.0,20.0,0.0,0.0,55.0,0,Low-volume adopters
+1769509245,NC,Internal Medicine,371.0,349.0,179.0,48.24797843665768,6.303724928366762,1,High-volume adopters
+1694857948,VA,Internal Medicine,26.0,24.0,0.0,0.0,8.333333333333334,0,Low-volume adopters
+1385087963,CA,Family Practice,328.0,325.0,150.0,45.73170731707317,0.9230769230769231,1,High-volume adopters
+1344922106,CA,Internal Medicine,82.0,80.0,31.0,37.80487804878049,2.5,1,High-volume adopters
+1344143681,OH,Physician Assistant,105.0,96.0,11.0,10.476190476190476,9.375,0,Low-volume adopters
+1836584745,WA,Cardiology,455.0,464.0,174.0,38.24175824175824,-1.9396551724137931,1,High-volume adopters
+1013685730,AZ,Nurse Practitioner,14.0,17.0,0.0,0.0,-17.647058823529413,2,Low-volume traditionalists
+1549335153,CA,Internal Medicine,60.0,51.0,25.0,41.666666666666664,17.647058823529413,1,High-volume adopters
+1718133680,NC,Family Practice,50.0,45.0,0.0,0.0,11.11111111111111,0,Low-volume adopters
+1258558544,MI,Family Practice,27.0,24.0,0.0,0.0,12.5,0,Low-volume adopters
+1222620529,WA,Internal Medicine,95.0,43.0,47.0,49.473684210526315,120.93023255813954,3,High-volume traditionalists
+1030488652,MI,Internal Medicine,86.0,96.0,12.0,13.953488372093023,-10.416666666666666,2,Low-volume traditionalists
+1731798749,FL,Family Practice,374.0,319.0,138.0,36.898395721925134,17.24137931034483,1,High-volume adopters
+1303439474,NC,Nurse Practitioner,191.0,175.0,101.0,52.87958115183246,9.142857142857142,1,High-volume adopters
+1929042623,NY,Nurse Practitioner,89.0,88.0,45.0,50.561797752808985,1.1363636363636365,1,High-volume adopters
+1134158275,NC,Internal Medicine,13.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1421656769,IL,Internal Medicine,95.0,106.0,31.0,32.63157894736842,-10.377358490566039,1,High-volume adopters
+1524911329,NY,Internal Medicine,39.0,38.0,0.0,0.0,2.6315789473684212,2,Low-volume traditionalists
+1424117562,NJ,Internal Medicine,140.0,122.0,71.0,50.714285714285715,14.754098360655737,1,High-volume adopters
+1341921411,OH,Internal Medicine,15.0,44.0,0.0,0.0,-65.9090909090909,2,Low-volume traditionalists
+1290380655,NC,Internal Medicine,181.0,192.0,81.0,44.751381215469614,-5.729166666666667,1,High-volume adopters
+1926401119,VA,Internal Medicine,22.0,14.0,0.0,0.0,57.142857142857146,0,Low-volume adopters
+1596828390,FL,Nurse Practitioner,32.0,16.0,0.0,0.0,100.0,3,High-volume traditionalists
+1430211005,NC,Physician Assistant,20.0,31.0,0.0,0.0,-35.483870967741936,2,Low-volume traditionalists
+1162894331,NC,Endocrinology,25.0,39.0,0.0,0.0,-35.8974358974359,2,Low-volume traditionalists
+1828008199,AZ,Physician Assistant,33.0,23.0,11.0,33.333333333333336,43.47826086956522,3,High-volume traditionalists
+1246579044,IL,Family Practice,28.0,27.0,0.0,0.0,3.7037037037037037,2,Low-volume traditionalists
+1685232347,PA,Family Practice,136.0,169.0,26.0,19.11764705882353,-19.526627218934912,1,High-volume adopters
+1026557630,NY,Internal Medicine,195.0,175.0,124.0,63.58974358974359,11.428571428571429,1,High-volume adopters
+1182113426,CA,Internal Medicine,100.0,117.0,25.0,25.0,-14.52991452991453,1,High-volume adopters
+1307458960,VA,Family Practice,145.0,125.0,66.0,45.51724137931034,16.0,1,High-volume adopters
+1871477197,NY,Internal Medicine,169.0,210.0,15.0,8.875739644970414,-19.523809523809526,2,Low-volume traditionalists
+1149541117,NC,Nurse Practitioner,67.0,75.0,17.0,25.37313432835821,-10.666666666666666,2,Low-volume traditionalists
+1820119965,AZ,Family Practice,231.0,208.0,69.0,29.87012987012987,11.057692307692308,1,High-volume adopters
+1138801083,NY,Family Practice,73.0,48.0,27.0,36.986301369863014,52.083333333333336,3,High-volume traditionalists
+1467634381,IL,Internal Medicine,68.0,55.0,32.0,47.05882352941177,23.636363636363637,1,High-volume adopters
+1380280255,TX,Physician Assistant,96.0,99.0,0.0,0.0,-3.0303030303030303,2,Low-volume traditionalists
+1800466116,NJ,Internal Medicine,540.0,462.0,220.0,40.74074074074074,16.883116883116884,1,High-volume adopters
+1332424432,NC,Internal Medicine,16.0,19.0,0.0,0.0,-15.789473684210526,2,Low-volume traditionalists
+1045140599,GA,Internal Medicine,24.0,16.0,0.0,0.0,50.0,0,Low-volume adopters
+1025194586,IL,Cardiology,169.0,180.0,47.0,27.810650887573964,-6.111111111111111,1,High-volume adopters
+1001041198,NY,Family Practice,171.0,153.0,93.0,54.3859649122807,11.764705882352942,1,High-volume adopters
+1674813189,MA,Family Practice,34.0,43.0,0.0,0.0,-20.930232558139537,2,Low-volume traditionalists
+1763302409,NY,Internal Medicine,27.0,32.0,0.0,0.0,-15.625,2,Low-volume traditionalists
+1243353406,FL,Cardiology,32.0,33.0,0.0,0.0,-3.0303030303030303,2,Low-volume traditionalists
+1629112609,GA,Family Practice,20.0,20.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1452619072,MI,Family Practice,567.0,517.0,172.0,30.335097001763668,9.671179883945841,1,High-volume adopters
+1271044772,MA,Internal Medicine,46.0,45.0,0.0,0.0,2.2222222222222223,2,Low-volume traditionalists
+1792103164,IL,Physician Assistant,32.0,40.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1074224691,GA,Family Practice,152.0,137.0,80.0,52.63157894736842,10.94890510948905,1,High-volume adopters
+1610709769,OH,Internal Medicine,95.0,103.0,47.0,49.473684210526315,-7.766990291262136,1,High-volume adopters
+1826752243,MI,Nurse Practitioner,278.0,294.0,80.0,28.776978417266186,-5.442176870748299,1,High-volume adopters
+1289863354,CA,Nurse Practitioner,306.0,277.0,92.0,30.065359477124183,10.469314079422382,1,High-volume adopters
+1139964695,PA,Internal Medicine,39.0,30.0,0.0,0.0,30.0,0,Low-volume adopters
+1495384335,WA,Internal Medicine,33.0,34.0,0.0,0.0,-2.9411764705882355,2,Low-volume traditionalists
+1527309266,IL,Internal Medicine,130.0,132.0,78.0,60.0,-1.5151515151515151,1,High-volume adopters
+1223583545,WA,Family Practice,95.0,48.0,43.0,45.26315789473684,97.91666666666667,3,High-volume traditionalists
+1134615533,TX,Internal Medicine,19.0,21.0,0.0,0.0,-9.523809523809524,2,Low-volume traditionalists
+1689331858,WA,Endocrinology,210.0,195.0,94.0,44.76190476190476,7.6923076923076925,1,High-volume adopters
+1566545572,GA,Nurse Practitioner,346.0,353.0,127.0,36.70520231213873,-1.9830028328611897,1,High-volume adopters
+1754603061,IL,Cardiology,53.0,46.0,0.0,0.0,15.217391304347826,0,Low-volume adopters
+1694557539,NJ,Family Practice,72.0,91.0,25.0,34.72222222222222,-20.87912087912088,1,High-volume adopters
+1565217642,NY,Nurse Practitioner,615.0,559.0,299.0,48.61788617886179,10.01788908765653,1,High-volume adopters
+1557905394,IL,Family Practice,261.0,234.0,78.0,29.885057471264368,11.538461538461538,1,High-volume adopters
+1397175521,TX,Physician Assistant,16.0,13.0,0.0,0.0,23.076923076923077,0,Low-volume adopters
+1299837670,FL,Family Practice,57.0,54.0,15.0,26.31578947368421,5.555555555555555,0,Low-volume adopters
+1660499287,CA,Nurse Practitioner,47.0,38.0,0.0,0.0,23.68421052631579,0,Low-volume adopters
+1064817631,CA,Internal Medicine,15.0,20.0,0.0,0.0,-25.0,2,Low-volume traditionalists
+1424281104,MA,Family Practice,20.0,22.0,0.0,0.0,-9.090909090909092,2,Low-volume traditionalists
+1644194848,OH,Physician Assistant,19.0,20.0,0.0,0.0,-5.0,2,Low-volume traditionalists
+1172027948,WA,Family Practice,133.0,144.0,12.0,9.022556390977444,-7.638888888888889,2,Low-volume traditionalists
+1807158340,CA,Internal Medicine,88.0,119.0,14.0,15.909090909090908,-26.050420168067227,2,Low-volume traditionalists
+1186815986,PA,Endocrinology,164.0,150.0,99.0,60.36585365853659,9.333333333333334,1,High-volume adopters
+1479642205,MI,Family Practice,199.0,190.0,110.0,55.27638190954774,4.7368421052631575,1,High-volume adopters
+1373731494,IL,Family Practice,150.0,144.0,11.0,7.333333333333333,4.166666666666667,0,Low-volume adopters
+1438298477,VA,Internal Medicine,65.0,49.0,23.0,35.38461538461539,32.6530612244898,3,High-volume traditionalists
+1586254808,NJ,Family Practice,109.0,149.0,57.0,52.293577981651374,-26.845637583892618,1,High-volume adopters
+1540246059,AZ,Internal Medicine,265.0,252.0,99.0,37.35849056603774,5.158730158730159,1,High-volume adopters
+1700445827,CA,Internal Medicine,343.0,292.0,168.0,48.97959183673469,17.465753424657535,1,High-volume adopters
+1400100556,VA,Physician Assistant,276.0,231.0,93.0,33.69565217391305,19.48051948051948,1,High-volume adopters
+1019507573,TX,Physician Assistant,52.0,69.0,0.0,0.0,-24.63768115942029,2,Low-volume traditionalists
+1549972637,CA,Internal Medicine,384.0,345.0,112.0,29.166666666666668,11.304347826086957,1,High-volume adopters
+1371403494,FL,Physician Assistant,30.0,42.0,0.0,0.0,-28.571428571428573,2,Low-volume traditionalists
+1141251303,TX,Family Practice,349.0,393.0,74.0,21.20343839541547,-11.195928753180661,1,High-volume adopters
+1038241668,NJ,Internal Medicine,129.0,112.0,24.0,18.6046511627907,15.178571428571429,1,High-volume adopters
+1902305446,NC,Nurse Practitioner,113.0,125.0,0.0,0.0,-9.6,2,Low-volume traditionalists
+1719282936,AZ,Family Practice,72.0,58.0,12.0,16.666666666666668,24.137931034482758,0,Low-volume adopters
+1723621843,IL,Internal Medicine,449.0,411.0,169.0,37.639198218262806,9.245742092457421,1,High-volume adopters
+1654802283,WA,Family Practice,254.0,216.0,96.0,37.79527559055118,17.59259259259259,1,High-volume adopters
+1764367469,GA,Family Practice,372.0,373.0,92.0,24.731182795698924,-0.2680965147453083,1,High-volume adopters
+1584711344,NJ,Internal Medicine,23.0,26.0,0.0,0.0,-11.538461538461538,2,Low-volume traditionalists
+1606257372,VA,Internal Medicine,39.0,47.0,0.0,0.0,-17.02127659574468,2,Low-volume traditionalists
+1749661784,NY,Physician Assistant,34.0,55.0,0.0,0.0,-38.18181818181818,2,Low-volume traditionalists
+1021346693,GA,Family Practice,209.0,203.0,66.0,31.57894736842105,2.955665024630542,1,High-volume adopters
+1157750712,PA,Internal Medicine,59.0,70.0,13.0,22.033898305084747,-15.714285714285714,2,Low-volume traditionalists
+1355800947,WA,Family Practice,50.0,61.0,0.0,0.0,-18.0327868852459,2,Low-volume traditionalists
+1651164686,IL,Family Practice,52.0,50.0,0.0,0.0,4.0,2,Low-volume traditionalists
+1821976351,NC,Nurse Practitioner,291.0,267.0,137.0,47.07903780068729,8.98876404494382,1,High-volume adopters
+1959071301,NJ,Family Practice,375.0,331.0,114.0,30.4,13.293051359516616,1,High-volume adopters
+1864303659,NY,Family Practice,14.0,14.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1565724079,MI,Family Practice,247.0,212.0,126.0,51.012145748987855,16.50943396226415,1,High-volume adopters
+1052249050,GA,Family Practice,40.0,27.0,14.0,35.0,48.148148148148145,3,High-volume traditionalists
+1580211417,FL,Endocrinology,352.0,350.0,209.0,59.375,0.5714285714285714,1,High-volume adopters
+1779720532,PA,Internal Medicine,311.0,250.0,173.0,55.62700964630225,24.4,1,High-volume adopters
+1545830834,IL,Internal Medicine,83.0,63.0,28.0,33.734939759036145,31.746031746031747,1,High-volume adopters
+1419198983,NY,Internal Medicine,11.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1069834180,CA,Family Practice,61.0,55.0,31.0,50.81967213114754,10.909090909090908,1,High-volume adopters
+1000270242,GA,Family Practice,143.0,149.0,69.0,48.25174825174825,-4.026845637583893,1,High-volume adopters
+1147065483,CA,Family Practice,54.0,47.0,0.0,0.0,14.893617021276595,0,Low-volume adopters
+1730788882,NY,Internal Medicine,363.0,338.0,137.0,37.74104683195592,7.396449704142012,1,High-volume adopters
+1716439187,VA,Family Practice,197.0,186.0,82.0,41.6243654822335,5.913978494623656,1,High-volume adopters
+1913506036,NC,Internal Medicine,132.0,83.0,41.0,31.060606060606062,59.036144578313255,3,High-volume traditionalists
+1481326028,MA,Family Practice,80.0,66.0,13.0,16.25,21.21212121212121,0,Low-volume adopters
+1791519321,IL,Nurse Practitioner,129.0,95.0,62.0,48.06201550387597,35.78947368421053,1,High-volume adopters
+1117655956,VA,Family Practice,63.0,70.0,0.0,0.0,-10.0,2,Low-volume traditionalists
+1324593525,NY,Family Practice,95.0,88.0,24.0,25.263157894736842,7.954545454545454,1,High-volume adopters
+1758779687,OH,Internal Medicine,54.0,43.0,11.0,20.37037037037037,25.58139534883721,0,Low-volume adopters
+1941926939,FL,Family Practice,30.0,18.0,0.0,0.0,66.66666666666667,0,Low-volume adopters
+1326475519,NC,Internal Medicine,349.0,329.0,152.0,43.55300859598854,6.079027355623101,1,High-volume adopters
+1556997377,FL,Internal Medicine,657.0,643.0,160.0,24.3531202435312,2.177293934681182,1,High-volume adopters
+1159532020,VA,Family Practice,45.0,66.0,15.0,33.333333333333336,-31.818181818181817,2,Low-volume traditionalists
+1351227106,VA,Nurse Practitioner,606.0,568.0,236.0,38.943894389438945,6.690140845070423,1,High-volume adopters
+1533867339,CA,Cardiology,72.0,69.0,16.0,22.22222222222222,4.3478260869565215,0,Low-volume adopters
+1577034473,WA,Nurse Practitioner,204.0,157.0,89.0,43.627450980392155,29.936305732484076,1,High-volume adopters
+1418112680,PA,Internal Medicine,225.0,217.0,115.0,51.111111111111114,3.686635944700461,1,High-volume adopters
+1492606255,MI,Family Practice,98.0,48.0,25.0,25.510204081632654,104.16666666666667,3,High-volume traditionalists
+1062207555,PA,Internal Medicine,38.0,28.0,0.0,0.0,35.714285714285715,0,Low-volume adopters
+1699282215,NJ,Endocrinology,106.0,85.0,46.0,43.39622641509434,24.705882352941178,1,High-volume adopters
+1645350991,MA,Family Practice,49.0,56.0,0.0,0.0,-12.5,2,Low-volume traditionalists
+1299589156,WA,Internal Medicine,199.0,161.0,71.0,35.678391959798994,23.60248447204969,1,High-volume adopters
+1703417131,GA,Cardiology,74.0,58.0,13.0,17.56756756756757,27.586206896551722,0,Low-volume adopters
+1224173402,IL,Physician Assistant,289.0,281.0,103.0,35.6401384083045,2.8469750889679717,1,High-volume adopters
+1700991743,GA,Physician Assistant,19.0,24.0,0.0,0.0,-20.833333333333332,2,Low-volume traditionalists
+1016137793,GA,Cardiology,22.0,17.0,0.0,0.0,29.41176470588235,0,Low-volume adopters
+1224153614,GA,Family Practice,68.0,34.0,31.0,45.588235294117645,100.0,3,High-volume traditionalists
+1737066043,MI,Family Practice,237.0,235.0,66.0,27.848101265822784,0.851063829787234,1,High-volume adopters
+1841670552,MI,Family Practice,186.0,177.0,85.0,45.69892473118279,5.084745762711864,1,High-volume adopters
+1578994164,FL,Internal Medicine,50.0,38.0,13.0,26.0,31.57894736842105,0,Low-volume adopters
+1538913376,VA,Endocrinology,234.0,191.0,140.0,59.82905982905983,22.513089005235603,1,High-volume adopters
+1337145616,NY,Family Practice,30.0,31.0,0.0,0.0,-3.225806451612903,2,Low-volume traditionalists
+1923971851,PA,Family Practice,267.0,245.0,109.0,40.823970037453186,8.979591836734693,1,High-volume adopters
+1146751591,VA,Family Practice,80.0,77.0,26.0,32.5,3.896103896103896,1,High-volume adopters
+1534653330,MI,Nurse Practitioner,417.0,421.0,187.0,44.84412470023981,-0.9501187648456056,1,High-volume adopters
+1690330764,VA,Family Practice,36.0,26.0,0.0,0.0,38.46153846153846,0,Low-volume adopters
+1665597995,TX,Family Practice,180.0,170.0,104.0,57.77777777777778,5.882352941176471,1,High-volume adopters
+1042020982,NY,Family Practice,156.0,132.0,67.0,42.94871794871795,18.181818181818183,1,High-volume adopters
+1139508601,MA,Cardiology,84.0,71.0,41.0,48.80952380952381,18.309859154929576,1,High-volume adopters
+1356906165,GA,Family Practice,21.0,24.0,0.0,0.0,-12.5,2,Low-volume traditionalists
+1368285235,PA,Nurse Practitioner,108.0,99.0,53.0,49.074074074074076,9.090909090909092,1,High-volume adopters
+1886426449,IL,Internal Medicine,36.0,43.0,0.0,0.0,-16.27906976744186,2,Low-volume traditionalists
+1392714588,WA,Nurse Practitioner,39.0,49.0,0.0,0.0,-20.408163265306122,2,Low-volume traditionalists
+1564976403,CA,Internal Medicine,378.0,392.0,120.0,31.746031746031747,-3.5714285714285716,1,High-volume adopters
+1529167980,PA,Physician Assistant,716.0,708.0,430.0,60.055865921787706,1.1299435028248588,1,High-volume adopters
+1627304626,OH,Family Practice,60.0,38.0,0.0,0.0,57.89473684210526,0,Low-volume adopters
+1622123759,NY,Family Practice,83.0,53.0,12.0,14.457831325301205,56.60377358490566,3,High-volume traditionalists
+1470028923,CA,Internal Medicine,131.0,99.0,83.0,63.3587786259542,32.323232323232325,1,High-volume adopters
+1367520002,CA,Nurse Practitioner,40.0,29.0,0.0,0.0,37.93103448275862,0,Low-volume adopters
+1299974634,FL,Nurse Practitioner,41.0,45.0,0.0,0.0,-8.88888888888889,2,Low-volume traditionalists
+1435719732,MA,Internal Medicine,37.0,45.0,0.0,0.0,-17.77777777777778,2,Low-volume traditionalists
+1530876247,MI,Internal Medicine,16.0,27.0,0.0,0.0,-40.74074074074074,2,Low-volume traditionalists
+1244332039,MA,Cardiology,40.0,61.0,0.0,0.0,-34.42622950819672,2,Low-volume traditionalists
+1246603488,GA,Internal Medicine,38.0,32.0,0.0,0.0,18.75,0,Low-volume adopters
+1487882258,FL,Nurse Practitioner,100.0,67.0,32.0,32.0,49.25373134328358,3,High-volume traditionalists
+1217141678,AZ,Nurse Practitioner,67.0,74.0,11.0,16.417910447761194,-9.45945945945946,2,Low-volume traditionalists
+1876693469,MI,Internal Medicine,15.0,15.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1206056518,IL,Family Practice,68.0,51.0,11.0,16.176470588235293,33.333333333333336,0,Low-volume adopters
+1559982649,NY,Internal Medicine,190.0,157.0,99.0,52.10526315789474,21.019108280254777,1,High-volume adopters
+1484899411,AZ,Internal Medicine,18.0,20.0,0.0,0.0,-10.0,2,Low-volume traditionalists
+1193344474,PA,Internal Medicine,350.0,332.0,128.0,36.57142857142857,5.421686746987952,1,High-volume adopters
+1686290520,NY,Internal Medicine,238.0,212.0,58.0,24.369747899159663,12.264150943396226,1,High-volume adopters
+1005723970,TX,Family Practice,30.0,29.0,0.0,0.0,3.4482758620689653,2,Low-volume traditionalists
+1603991646,AZ,Nurse Practitioner,61.0,84.0,0.0,0.0,-27.38095238095238,2,Low-volume traditionalists
+1058599446,FL,Internal Medicine,81.0,60.0,17.0,20.987654320987655,35.0,0,Low-volume adopters
+1420172281,NY,Nurse Practitioner,156.0,142.0,82.0,52.56410256410256,9.859154929577464,1,High-volume adopters
+1793764192,FL,Endocrinology,66.0,84.0,14.0,21.21212121212121,-21.428571428571427,2,Low-volume traditionalists
+1695812525,AZ,Nurse Practitioner,35.0,26.0,11.0,31.428571428571427,34.61538461538461,0,Low-volume adopters
+1590206200,PA,Family Practice,32.0,23.0,0.0,0.0,39.130434782608695,0,Low-volume adopters
+1553283150,GA,Internal Medicine,150.0,144.0,81.0,54.0,4.166666666666667,1,High-volume adopters
+1735356127,NY,Nurse Practitioner,118.0,115.0,76.0,64.40677966101696,2.608695652173913,1,High-volume adopters
+1607934987,PA,Endocrinology,91.0,78.0,40.0,43.956043956043956,16.666666666666668,1,High-volume adopters
+1510941971,CA,Nurse Practitioner,284.0,291.0,81.0,28.52112676056338,-2.4054982817869415,1,High-volume adopters
+1317972693,NY,Family Practice,53.0,22.0,26.0,49.056603773584904,140.9090909090909,3,High-volume traditionalists
+1692585917,PA,Internal Medicine,12.0,21.0,0.0,0.0,-42.857142857142854,2,Low-volume traditionalists
+1862660964,VA,Cardiology,44.0,38.0,17.0,38.63636363636363,15.789473684210526,1,High-volume adopters
+1511409996,PA,Physician Assistant,99.0,81.0,54.0,54.54545454545455,22.22222222222222,1,High-volume adopters
+1480493089,NJ,Family Practice,16.0,19.0,0.0,0.0,-15.789473684210526,2,Low-volume traditionalists
+1796213054,GA,Nurse Practitioner,30.0,19.0,11.0,36.666666666666664,57.89473684210526,3,High-volume traditionalists
+1132682517,OH,Nurse Practitioner,112.0,116.0,40.0,35.714285714285715,-3.4482758620689653,1,High-volume adopters
+1875584177,NC,Internal Medicine,19.0,23.0,0.0,0.0,-17.391304347826086,2,Low-volume traditionalists
+1590789655,FL,Nurse Practitioner,58.0,84.0,11.0,18.96551724137931,-30.952380952380953,2,Low-volume traditionalists
+1174334123,MI,Nurse Practitioner,196.0,148.0,86.0,43.87755102040816,32.432432432432435,1,High-volume adopters
+1441899990,MI,Physician Assistant,153.0,130.0,55.0,35.947712418300654,17.692307692307693,1,High-volume adopters
+1535056850,MI,Family Practice,89.0,83.0,38.0,42.69662921348315,7.228915662650603,1,High-volume adopters
+1164236423,MA,Internal Medicine,142.0,160.0,50.0,35.2112676056338,-11.25,1,High-volume adopters
+1841960873,MI,Endocrinology,137.0,110.0,76.0,55.47445255474452,24.545454545454547,1,High-volume adopters
+1875012556,PA,Family Practice,160.0,194.0,66.0,41.25,-17.52577319587629,1,High-volume adopters
+1679800250,NC,Cardiology,84.0,116.0,37.0,44.04761904761905,-27.586206896551722,1,High-volume adopters
+1151103981,NY,Endocrinology,86.0,82.0,47.0,54.651162790697676,4.878048780487805,1,High-volume adopters
+1162261309,NY,Internal Medicine,18.0,22.0,0.0,0.0,-18.181818181818183,2,Low-volume traditionalists
+1558392916,OH,Internal Medicine,28.0,32.0,0.0,0.0,-12.5,2,Low-volume traditionalists
+1730992388,MI,Family Practice,77.0,52.0,28.0,36.36363636363637,48.07692307692308,3,High-volume traditionalists
+1922743540,IL,Nurse Practitioner,93.0,62.0,0.0,0.0,50.0,0,Low-volume adopters
+1333085196,NC,Internal Medicine,15.0,16.0,0.0,0.0,-6.25,2,Low-volume traditionalists
+1808865152,NJ,Cardiology,12.0,15.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1805075944,NJ,Nurse Practitioner,125.0,110.0,53.0,42.4,13.636363636363637,1,High-volume adopters
+1641804671,VA,Family Practice,37.0,28.0,0.0,0.0,32.142857142857146,0,Low-volume adopters
+1916381213,NJ,Family Practice,205.0,260.0,87.0,42.4390243902439,-21.153846153846153,1,High-volume adopters
+1550100677,NC,Internal Medicine,158.0,144.0,61.0,38.607594936708864,9.722222222222221,1,High-volume adopters
+1607465507,PA,Endocrinology,14.0,19.0,0.0,0.0,-26.31578947368421,2,Low-volume traditionalists
+1895539502,NY,Internal Medicine,56.0,60.0,0.0,0.0,-6.666666666666667,2,Low-volume traditionalists
+1322925319,NJ,Family Practice,320.0,315.0,137.0,42.8125,1.5873015873015872,1,High-volume adopters
+1581279387,MA,Family Practice,51.0,76.0,0.0,0.0,-32.89473684210526,2,Low-volume traditionalists
+1372326158,PA,Internal Medicine,17.0,21.0,0.0,0.0,-19.047619047619047,2,Low-volume traditionalists
+1796788361,AZ,Endocrinology,265.0,268.0,156.0,58.867924528301884,-1.1194029850746268,1,High-volume adopters
+1890338265,NY,Nurse Practitioner,214.0,197.0,109.0,50.93457943925234,8.629441624365482,1,High-volume adopters
+1230832452,MA,Internal Medicine,19.0,15.0,0.0,0.0,26.666666666666668,0,Low-volume adopters
+1778262816,NY,Endocrinology,11.0,11.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1138442571,TX,Family Practice,19.0,16.0,0.0,0.0,18.75,0,Low-volume adopters
+1422942795,OH,Family Practice,13.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1219651165,TX,Family Practice,12.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1371034409,MI,Physician Assistant,11.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1000025317,CA,Internal Medicine,29.0,20.0,11.0,37.93103448275862,45.0,3,High-volume traditionalists
+1503037538,CA,Family Practice,253.0,256.0,56.0,22.134387351778656,-1.171875,1,High-volume adopters
+1844746325,NY,Internal Medicine,143.0,114.0,52.0,36.36363636363637,25.43859649122807,1,High-volume adopters
+1361961320,NY,Nurse Practitioner,178.0,160.0,92.0,51.68539325842696,11.25,1,High-volume adopters
+1938944092,FL,Family Practice,576.0,509.0,162.0,28.125,13.163064833005894,1,High-volume adopters
+1010892809,VA,Family Practice,14.0,14.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1321080767,GA,Family Practice,591.0,533.0,301.0,50.93062605752961,10.881801125703564,1,High-volume adopters
+1337945866,GA,Internal Medicine,286.0,244.0,117.0,40.90909090909091,17.21311475409836,1,High-volume adopters
+1456496938,FL,Internal Medicine,40.0,41.0,0.0,0.0,-2.4390243902439024,2,Low-volume traditionalists
+1374383916,PA,Family Practice,275.0,259.0,125.0,45.45454545454545,6.177606177606178,1,High-volume adopters
+1413143370,CA,Family Practice,17.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1086711598,MA,Nurse Practitioner,19.0,39.0,0.0,0.0,-51.282051282051285,2,Low-volume traditionalists
+1070258264,NY,Nurse Practitioner,44.0,53.0,0.0,0.0,-16.9811320754717,2,Low-volume traditionalists
+1000434269,NJ,Internal Medicine,67.0,65.0,31.0,46.26865671641791,3.076923076923077,1,High-volume adopters
+1587465174,GA,Family Practice,30.0,22.0,12.0,40.0,36.36363636363637,3,High-volume traditionalists
+1650619255,OH,Family Practice,17.0,12.0,0.0,0.0,41.666666666666664,0,Low-volume adopters
+1711841290,MA,Family Practice,34.0,26.0,0.0,0.0,30.76923076923077,0,Low-volume adopters
+1213603506,WA,Nurse Practitioner,69.0,52.0,12.0,17.391304347826086,32.69230769230769,0,Low-volume adopters
+1148637077,GA,Family Practice,257.0,213.0,153.0,59.53307392996109,20.657276995305164,1,High-volume adopters
+1025665327,NC,Endocrinology,64.0,36.0,38.0,59.375,77.77777777777777,3,High-volume traditionalists
+1098112299,MA,Family Practice,313.0,319.0,93.0,29.712460063897762,-1.8808777429467085,1,High-volume adopters
+1833651465,VA,Physician Assistant,61.0,21.0,25.0,40.98360655737705,190.47619047619048,3,High-volume traditionalists
+1104007959,TX,Nurse Practitioner,22.0,20.0,0.0,0.0,10.0,0,Low-volume adopters
+1241258691,OH,Family Practice,19.0,16.0,0.0,0.0,18.75,0,Low-volume adopters
+1286139039,NY,Nurse Practitioner,42.0,43.0,0.0,0.0,-2.3255813953488373,2,Low-volume traditionalists
+1093743031,PA,Family Practice,16.0,12.0,0.0,0.0,33.333333333333336,0,Low-volume adopters
+1608793437,AZ,Family Practice,25.0,57.0,0.0,0.0,-56.14035087719298,2,Low-volume traditionalists
+1356190014,MI,Nurse Practitioner,30.0,29.0,0.0,0.0,3.4482758620689653,2,Low-volume traditionalists
+1228572643,OH,Nurse Practitioner,117.0,131.0,38.0,32.47863247863248,-10.687022900763358,1,High-volume adopters
+1957478658,GA,Internal Medicine,261.0,211.0,96.0,36.7816091954023,23.696682464454977,1,High-volume adopters
+1967795384,PA,Family Practice,359.0,333.0,176.0,49.02506963788301,7.807807807807808,1,High-volume adopters
+1967527955,MA,Nurse Practitioner,111.0,140.0,31.0,27.92792792792793,-20.714285714285715,1,High-volume adopters
+1808173348,VA,Internal Medicine,190.0,186.0,84.0,44.21052631578947,2.150537634408602,1,High-volume adopters
+1870941951,OH,Internal Medicine,44.0,47.0,0.0,0.0,-6.382978723404255,2,Low-volume traditionalists
+1820029658,NJ,Nurse Practitioner,229.0,206.0,113.0,49.34497816593886,11.16504854368932,1,High-volume adopters
+1586136080,TX,Nurse Practitioner,99.0,109.0,34.0,34.343434343434346,-9.174311926605505,1,High-volume adopters
+1218942968,FL,Internal Medicine,38.0,43.0,0.0,0.0,-11.627906976744185,2,Low-volume traditionalists
+1121308782,IL,Cardiology,29.0,47.0,0.0,0.0,-38.297872340425535,2,Low-volume traditionalists
+1272272307,GA,Internal Medicine,18.0,22.0,0.0,0.0,-18.181818181818183,2,Low-volume traditionalists
+1771515399,VA,Physician Assistant,27.0,17.0,11.0,40.74074074074074,58.8235294117647,3,High-volume traditionalists
+1226158313,AZ,Family Practice,159.0,122.0,76.0,47.79874213836478,30.327868852459016,1,High-volume adopters
+1912514114,PA,Cardiology,451.0,508.0,168.0,37.250554323725055,-11.220472440944881,1,High-volume adopters
+1817622506,WA,Physician Assistant,347.0,338.0,147.0,42.363112391930834,2.662721893491124,1,High-volume adopters
+1646126700,NJ,Family Practice,26.0,50.0,0.0,0.0,-48.0,2,Low-volume traditionalists
+1689067921,AZ,Internal Medicine,286.0,268.0,135.0,47.2027972027972,6.7164179104477615,1,High-volume adopters
+1058270325,PA,Family Practice,23.0,21.0,0.0,0.0,9.523809523809524,0,Low-volume adopters
+1157924148,PA,Cardiology,25.0,28.0,0.0,0.0,-10.714285714285714,2,Low-volume traditionalists
+1584147968,OH,Internal Medicine,94.0,86.0,38.0,40.42553191489362,9.30232558139535,1,High-volume adopters
+1893519380,VA,Internal Medicine,37.0,24.0,0.0,0.0,54.166666666666664,0,Low-volume adopters
+1486619512,OH,Internal Medicine,408.0,406.0,127.0,31.127450980392158,0.49261083743842365,1,High-volume adopters
+1297287928,CA,Internal Medicine,597.0,600.0,161.0,26.96817420435511,-0.5,1,High-volume adopters
+1723858620,FL,Internal Medicine,49.0,37.0,0.0,0.0,32.432432432432435,0,Low-volume adopters
+1142402790,WA,Internal Medicine,90.0,56.0,58.0,64.44444444444444,60.714285714285715,3,High-volume traditionalists
+1233765150,NJ,Nurse Practitioner,419.0,415.0,256.0,61.097852028639615,0.963855421686747,1,High-volume adopters
+1280840996,GA,Internal Medicine,345.0,343.0,150.0,43.47826086956522,0.5830903790087464,1,High-volume adopters
+1554907415,GA,Endocrinology,96.0,72.0,40.0,41.666666666666664,33.333333333333336,1,High-volume adopters
+1316692778,WA,Internal Medicine,57.0,45.0,22.0,38.59649122807018,26.666666666666668,1,High-volume adopters
+1102870634,NC,Family Practice,197.0,192.0,103.0,52.28426395939086,2.6041666666666665,1,High-volume adopters
+1231780724,GA,Internal Medicine,60.0,62.0,0.0,0.0,-3.225806451612903,2,Low-volume traditionalists
+1130510493,PA,Family Practice,1050.0,1038.0,317.0,30.19047619047619,1.1560693641618498,1,High-volume adopters
+1083826721,GA,Internal Medicine,37.0,27.0,0.0,0.0,37.03703703703704,0,Low-volume adopters
+1230010086,WA,Nurse Practitioner,124.0,143.0,11.0,8.870967741935484,-13.286713286713287,2,Low-volume traditionalists
+1905948184,AZ,Family Practice,260.0,265.0,53.0,20.384615384615383,-1.8867924528301887,1,High-volume adopters
+1781871507,PA,Family Practice,36.0,27.0,0.0,0.0,33.333333333333336,0,Low-volume adopters
+1786953531,MI,Family Practice,154.0,97.0,58.0,37.66233766233766,58.76288659793814,3,High-volume traditionalists
+1539093602,FL,Nurse Practitioner,90.0,107.0,33.0,36.666666666666664,-15.88785046728972,1,High-volume adopters
+1727025185,GA,Internal Medicine,107.0,60.0,55.0,51.401869158878505,78.33333333333333,3,High-volume traditionalists
+1873203700,MI,Nurse Practitioner,253.0,246.0,99.0,39.130434782608695,2.845528455284553,1,High-volume adopters
+1315811921,WA,Family Practice,16.0,11.0,0.0,0.0,45.45454545454545,0,Low-volume adopters
+1437177254,AZ,Family Practice,26.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1690161596,IL,Cardiology,84.0,61.0,0.0,0.0,37.704918032786885,0,Low-volume adopters
+1191479843,MA,Family Practice,103.0,53.0,31.0,30.097087378640776,94.33962264150944,3,High-volume traditionalists
+1556114386,OH,Nurse Practitioner,24.0,20.0,0.0,0.0,20.0,0,Low-volume adopters
+1256379439,MA,Family Practice,86.0,93.0,45.0,52.325581395348834,-7.526881720430108,1,High-volume adopters
+1467113006,NY,Internal Medicine,69.0,79.0,0.0,0.0,-12.658227848101266,2,Low-volume traditionalists
+1580222669,IL,Nurse Practitioner,144.0,160.0,11.0,7.638888888888889,-10.0,2,Low-volume traditionalists
+1896781587,PA,Nurse Practitioner,83.0,47.0,27.0,32.53012048192771,76.59574468085107,3,High-volume traditionalists
+1141090477,FL,Internal Medicine,188.0,151.0,84.0,44.680851063829785,24.503311258278146,1,High-volume adopters
+1849855606,OH,Physician Assistant,101.0,125.0,0.0,0.0,-19.2,2,Low-volume traditionalists
+1711629636,MA,Physician Assistant,64.0,67.0,0.0,0.0,-4.477611940298507,2,Low-volume traditionalists
+1259802472,OH,Nurse Practitioner,27.0,24.0,0.0,0.0,12.5,0,Low-volume adopters
+1288200192,TX,Internal Medicine,22.0,30.0,0.0,0.0,-26.666666666666668,2,Low-volume traditionalists
+1224085229,CA,Family Practice,14.0,23.0,0.0,0.0,-39.130434782608695,2,Low-volume traditionalists
+1188221031,NJ,Internal Medicine,126.0,98.0,63.0,50.0,28.571428571428573,1,High-volume adopters
+1413958752,WA,Family Practice,62.0,83.0,0.0,0.0,-25.301204819277107,2,Low-volume traditionalists
+1449258313,OH,Nurse Practitioner,115.0,116.0,45.0,39.130434782608695,-0.8620689655172413,1,High-volume adopters
+1957232957,OH,Family Practice,89.0,94.0,48.0,53.93258426966292,-5.319148936170213,1,High-volume adopters
+1408752568,GA,Cardiology,30.0,26.0,0.0,0.0,15.384615384615385,0,Low-volume adopters
+1341109036,PA,Internal Medicine,126.0,85.0,46.0,36.507936507936506,48.23529411764706,3,High-volume traditionalists
+1710614628,MA,Nurse Practitioner,232.0,232.0,60.0,25.862068965517242,0.0,1,High-volume adopters
+1398008848,MA,Family Practice,174.0,154.0,75.0,43.10344827586207,12.987012987012987,1,High-volume adopters
+1094383813,AZ,Internal Medicine,95.0,71.0,0.0,0.0,33.80281690140845,0,Low-volume adopters
+1261983808,OH,Internal Medicine,372.0,319.0,215.0,57.795698924731184,16.614420062695924,1,High-volume adopters
+1263993939,AZ,Internal Medicine,36.0,35.0,0.0,0.0,2.857142857142857,2,Low-volume traditionalists
+1869060248,PA,Endocrinology,217.0,251.0,108.0,49.76958525345622,-13.54581673306773,1,High-volume adopters
+1898880279,FL,Internal Medicine,90.0,55.0,48.0,53.333333333333336,63.63636363636363,3,High-volume traditionalists
+1330199931,TX,Internal Medicine,89.0,76.0,38.0,42.69662921348315,17.105263157894736,1,High-volume adopters
+1852639506,WA,Family Practice,18.0,16.0,0.0,0.0,12.5,0,Low-volume adopters
+1186742169,GA,Nurse Practitioner,52.0,25.0,25.0,48.07692307692308,108.0,3,High-volume traditionalists
+1471749994,MA,Nurse Practitioner,177.0,147.0,75.0,42.3728813559322,20.408163265306122,1,High-volume adopters
+1740582778,NJ,Family Practice,173.0,160.0,72.0,41.61849710982659,8.125,1,High-volume adopters
+1581317508,CA,Nurse Practitioner,28.0,28.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1806447330,OH,Nurse Practitioner,144.0,121.0,44.0,30.555555555555557,19.00826446280992,1,High-volume adopters
+1782889134,GA,Nurse Practitioner,119.0,135.0,46.0,38.65546218487395,-11.851851851851851,1,High-volume adopters
+1588624421,PA,Cardiology,40.0,47.0,0.0,0.0,-14.893617021276595,2,Low-volume traditionalists
+1088428886,CA,Cardiology,229.0,196.0,129.0,56.33187772925764,16.836734693877553,1,High-volume adopters
+1379782742,TX,Family Practice,210.0,185.0,107.0,50.95238095238095,13.513513513513514,1,High-volume adopters
+1132525765,AZ,Nurse Practitioner,42.0,47.0,0.0,0.0,-10.638297872340425,2,Low-volume traditionalists
+1835600292,MI,Endocrinology,765.0,699.0,390.0,50.98039215686274,9.44206008583691,1,High-volume adopters
+1459605497,NY,Family Practice,66.0,52.0,11.0,16.666666666666668,26.923076923076923,0,Low-volume adopters
+1718240671,NJ,Cardiology,57.0,63.0,14.0,24.56140350877193,-9.523809523809524,2,Low-volume traditionalists
+1712996560,OH,Internal Medicine,43.0,44.0,0.0,0.0,-2.272727272727273,2,Low-volume traditionalists
+1001195525,WA,Family Practice,70.0,72.0,26.0,37.142857142857146,-2.7777777777777777,1,High-volume adopters
+1802320271,AZ,Internal Medicine,41.0,23.0,0.0,0.0,78.26086956521739,0,Low-volume adopters
+1710703674,IL,Internal Medicine,32.0,44.0,0.0,0.0,-27.272727272727273,2,Low-volume traditionalists
+1222666701,CA,Family Practice,48.0,48.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1568361606,GA,Internal Medicine,197.0,151.0,85.0,43.14720812182741,30.4635761589404,1,High-volume adopters
+1502501128,CA,Endocrinology,144.0,130.0,85.0,59.02777777777778,10.76923076923077,1,High-volume adopters
+1869659514,OH,Family Practice,173.0,184.0,61.0,35.26011560693642,-5.978260869565218,1,High-volume adopters
+1492552420,NY,Nurse Practitioner,14.0,13.0,0.0,0.0,7.6923076923076925,2,Low-volume traditionalists
+1702536080,PA,Nurse Practitioner,207.0,179.0,64.0,30.917874396135264,15.64245810055866,1,High-volume adopters
+1106599314,PA,Nurse Practitioner,131.0,92.0,40.0,30.53435114503817,42.391304347826086,3,High-volume traditionalists
+1302352104,AZ,Nurse Practitioner,148.0,130.0,42.0,28.37837837837838,13.846153846153847,1,High-volume adopters
+1548696699,FL,Internal Medicine,38.0,28.0,0.0,0.0,35.714285714285715,0,Low-volume adopters
+1928879469,AZ,Family Practice,166.0,173.0,89.0,53.6144578313253,-4.046242774566474,1,High-volume adopters
+1190707820,CA,Physician Assistant,55.0,39.0,11.0,20.0,41.02564102564103,0,Low-volume adopters
+1870764926,TX,Family Practice,36.0,43.0,0.0,0.0,-16.27906976744186,2,Low-volume traditionalists
+1718226412,AZ,Internal Medicine,71.0,59.0,42.0,59.15492957746479,20.338983050847457,1,High-volume adopters
+1792895266,FL,Family Practice,29.0,32.0,0.0,0.0,-9.375,2,Low-volume traditionalists
+1503186821,VA,Internal Medicine,472.0,478.0,284.0,60.16949152542373,-1.2552301255230125,1,High-volume adopters
+1600583551,NJ,Family Practice,22.0,24.0,0.0,0.0,-8.333333333333334,2,Low-volume traditionalists
+1792158939,VA,Endocrinology,254.0,254.0,116.0,45.669291338582674,0.0,1,High-volume adopters
+1929925032,OH,Internal Medicine,185.0,157.0,109.0,58.91891891891892,17.8343949044586,1,High-volume adopters
+1873116109,MI,Family Practice,75.0,83.0,0.0,0.0,-9.63855421686747,2,Low-volume traditionalists
+1857753152,AZ,Internal Medicine,181.0,162.0,88.0,48.61878453038674,11.728395061728396,1,High-volume adopters
+1900953751,MA,Internal Medicine,15.0,15.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1614294113,VA,Internal Medicine,54.0,63.0,0.0,0.0,-14.285714285714286,2,Low-volume traditionalists
+1591041855,FL,Nurse Practitioner,42.0,50.0,0.0,0.0,-16.0,2,Low-volume traditionalists
+1242269140,CA,Endocrinology,41.0,76.0,18.0,43.90243902439025,-46.05263157894737,2,Low-volume traditionalists
+1849880535,VA,Cardiology,71.0,72.0,0.0,0.0,-1.3888888888888888,2,Low-volume traditionalists
+1403510979,WA,Nurse Practitioner,16.0,20.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1240050168,OH,Physician Assistant,24.0,15.0,0.0,0.0,60.0,0,Low-volume adopters
+1654410403,PA,Family Practice,15.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1393470703,MA,Nurse Practitioner,68.0,67.0,13.0,19.11764705882353,1.492537313432836,2,Low-volume traditionalists
+1218165513,NY,Internal Medicine,25.0,31.0,0.0,0.0,-19.35483870967742,2,Low-volume traditionalists
+1730472565,MI,Family Practice,110.0,92.0,50.0,45.45454545454545,19.565217391304348,1,High-volume adopters
+1335909157,PA,Internal Medicine,410.0,404.0,181.0,44.146341463414636,1.4851485148514851,1,High-volume adopters
+1816167894,NC,Endocrinology,181.0,142.0,95.0,52.48618784530387,27.464788732394368,1,High-volume adopters
+1060462622,AZ,Family Practice,190.0,152.0,86.0,45.26315789473684,25.0,1,High-volume adopters
+1439162456,AZ,Internal Medicine,253.0,231.0,89.0,35.17786561264822,9.523809523809524,1,High-volume adopters
+1926158425,WA,Family Practice,14.0,20.0,0.0,0.0,-30.0,2,Low-volume traditionalists
+1362052888,IL,Family Practice,62.0,83.0,0.0,0.0,-25.301204819277107,2,Low-volume traditionalists
+1756159038,CA,Internal Medicine,55.0,64.0,12.0,21.818181818181817,-14.0625,2,Low-volume traditionalists
+1901007780,CA,Family Practice,19.0,30.0,0.0,0.0,-36.666666666666664,2,Low-volume traditionalists
+1870817597,NY,Internal Medicine,130.0,141.0,38.0,29.23076923076923,-7.801418439716312,1,High-volume adopters
+1948334080,WA,Endocrinology,129.0,107.0,79.0,61.24031007751938,20.560747663551403,1,High-volume adopters
+1834482755,WA,Internal Medicine,46.0,51.0,0.0,0.0,-9.803921568627452,2,Low-volume traditionalists
+1858031833,PA,Internal Medicine,374.0,334.0,156.0,41.711229946524064,11.976047904191617,1,High-volume adopters
+1284537666,FL,Nurse Practitioner,107.0,103.0,32.0,29.906542056074766,3.883495145631068,1,High-volume adopters
+1441772920,NC,Family Practice,424.0,455.0,202.0,47.64150943396226,-6.813186813186813,1,High-volume adopters
+1734613107,CA,Internal Medicine,81.0,101.0,25.0,30.864197530864196,-19.801980198019802,1,High-volume adopters
+1547467127,CA,Internal Medicine,190.0,223.0,69.0,36.31578947368421,-14.798206278026905,1,High-volume adopters
+1838135581,IL,Family Practice,24.0,33.0,0.0,0.0,-27.272727272727273,2,Low-volume traditionalists
+1253769654,OH,Internal Medicine,119.0,117.0,11.0,9.243697478991596,1.7094017094017093,0,Low-volume adopters
+1294431860,AZ,Family Practice,12.0,15.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1870110079,NC,Nurse Practitioner,45.0,38.0,0.0,0.0,18.42105263157895,0,Low-volume adopters
+1803976934,IL,Family Practice,21.0,34.0,0.0,0.0,-38.23529411764706,2,Low-volume traditionalists
+1122998425,VA,Internal Medicine,161.0,146.0,54.0,33.54037267080745,10.273972602739725,1,High-volume adopters
+1187569870,CA,Endocrinology,75.0,70.0,42.0,56.0,7.142857142857143,1,High-volume adopters
+1147801519,MI,Family Practice,11.0,14.0,0.0,0.0,-21.428571428571427,2,Low-volume traditionalists
+1621762434,NC,Nurse Practitioner,116.0,120.0,29.0,25.0,-3.3333333333333335,1,High-volume adopters
+1485418846,VA,Nurse Practitioner,274.0,284.0,90.0,32.846715328467155,-3.5211267605633805,1,High-volume adopters
+1037219385,VA,Endocrinology,323.0,308.0,175.0,54.17956656346749,4.87012987012987,1,High-volume adopters
+1415695440,MI,Internal Medicine,57.0,55.0,0.0,0.0,3.6363636363636362,2,Low-volume traditionalists
+1440477970,IL,Cardiology,343.0,302.0,134.0,39.067055393586,13.57615894039735,1,High-volume adopters
+1869675907,NY,Internal Medicine,24.0,30.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1350576915,OH,Internal Medicine,146.0,97.0,78.0,53.42465753424658,50.51546391752577,3,High-volume traditionalists
+1498742184,PA,Family Practice,43.0,41.0,0.0,0.0,4.878048780487805,2,Low-volume traditionalists
+1956766193,NC,Internal Medicine,25.0,26.0,0.0,0.0,-3.8461538461538463,2,Low-volume traditionalists
+1621837221,GA,Family Practice,1027.0,985.0,406.0,39.53261927945472,4.2639593908629445,1,High-volume adopters
+1246338969,NC,Family Practice,206.0,169.0,96.0,46.601941747572816,21.893491124260354,1,High-volume adopters
+1545245633,MA,Family Practice,26.0,18.0,11.0,42.30769230769231,44.44444444444444,3,High-volume traditionalists
+1226948281,PA,Internal Medicine,244.0,187.0,134.0,54.91803278688525,30.481283422459892,1,High-volume adopters
+1836932587,PA,Family Practice,326.0,315.0,174.0,53.374233128834355,3.492063492063492,1,High-volume adopters
+1297154456,CA,Cardiology,84.0,77.0,0.0,0.0,9.090909090909092,0,Low-volume adopters
+1807901457,NY,Internal Medicine,168.0,164.0,63.0,37.5,2.4390243902439024,1,High-volume adopters
+1591582630,PA,Physician Assistant,36.0,53.0,0.0,0.0,-32.075471698113205,2,Low-volume traditionalists
+1042752944,CA,Nurse Practitioner,29.0,33.0,0.0,0.0,-12.121212121212121,2,Low-volume traditionalists
+1024674957,PA,Family Practice,108.0,108.0,11.0,10.185185185185185,0.0,2,Low-volume traditionalists
+1253068926,IL,Internal Medicine,68.0,67.0,11.0,16.176470588235293,1.492537313432836,2,Low-volume traditionalists
+1363676862,WA,Endocrinology,151.0,121.0,85.0,56.29139072847682,24.793388429752067,1,High-volume adopters
+1355285004,MI,Internal Medicine,162.0,135.0,88.0,54.32098765432099,20.0,1,High-volume adopters
+1382164868,WA,Internal Medicine,138.0,136.0,73.0,52.89855072463768,1.4705882352941178,1,High-volume adopters
+1880974564,FL,Cardiology,136.0,93.0,43.0,31.61764705882353,46.236559139784944,3,High-volume traditionalists
+1374439109,NC,Nurse Practitioner,84.0,53.0,35.0,41.666666666666664,58.490566037735846,3,High-volume traditionalists
+1923087502,PA,Family Practice,150.0,140.0,51.0,34.0,7.142857142857143,1,High-volume adopters
+1390331104,OH,Internal Medicine,40.0,52.0,0.0,0.0,-23.076923076923077,2,Low-volume traditionalists
+1754681049,OH,Internal Medicine,53.0,29.0,23.0,43.39622641509434,82.75862068965517,3,High-volume traditionalists
+1424542131,TX,Endocrinology,204.0,219.0,130.0,63.72549019607843,-6.8493150684931505,1,High-volume adopters
+1478816056,IL,Internal Medicine,181.0,180.0,105.0,58.011049723756905,0.5555555555555556,1,High-volume adopters
+1413688510,NJ,Internal Medicine,77.0,84.0,26.0,33.76623376623377,-8.333333333333334,1,High-volume adopters
+1493167497,VA,Family Practice,50.0,37.0,0.0,0.0,35.13513513513514,0,Low-volume adopters
+1564180421,TX,Family Practice,61.0,41.0,26.0,42.622950819672134,48.78048780487805,3,High-volume traditionalists
+1115653488,AZ,Nurse Practitioner,28.0,39.0,0.0,0.0,-28.205128205128204,2,Low-volume traditionalists
+1287454941,NC,Family Practice,25.0,23.0,11.0,44.0,8.695652173913043,0,Low-volume adopters
+1797628963,IL,Family Practice,28.0,31.0,0.0,0.0,-9.67741935483871,2,Low-volume traditionalists
+1434302271,IL,Cardiology,164.0,168.0,36.0,21.951219512195124,-2.380952380952381,1,High-volume adopters
+1739939377,PA,Internal Medicine,187.0,160.0,111.0,59.35828877005348,16.875,1,High-volume adopters
+1827628929,MA,Internal Medicine,277.0,226.0,139.0,50.18050541516246,22.56637168141593,1,High-volume adopters
+1505194236,WA,Nurse Practitioner,24.0,22.0,0.0,0.0,9.090909090909092,0,Low-volume adopters
+1587818836,PA,Family Practice,35.0,30.0,0.0,0.0,16.666666666666668,0,Low-volume adopters
+1207643050,PA,Internal Medicine,121.0,94.0,62.0,51.239669421487605,28.72340425531915,1,High-volume adopters
+1439112986,WA,Internal Medicine,146.0,93.0,70.0,47.945205479452056,56.98924731182796,3,High-volume traditionalists
+1697848167,MI,Family Practice,209.0,204.0,108.0,51.67464114832536,2.450980392156863,1,High-volume adopters
+1911332848,TX,Physician Assistant,779.0,770.0,247.0,31.70731707317073,1.1688311688311688,1,High-volume adopters
+1039391700,CA,Nurse Practitioner,144.0,119.0,82.0,56.94444444444444,21.008403361344538,1,High-volume adopters
+1623003549,MI,Physician Assistant,38.0,37.0,0.0,0.0,2.7027027027027026,2,Low-volume traditionalists
+1227904701,PA,Family Practice,81.0,104.0,18.0,22.22222222222222,-22.115384615384617,2,Low-volume traditionalists
+1795677517,VA,Family Practice,73.0,67.0,0.0,0.0,8.955223880597014,0,Low-volume adopters
+1048461588,NY,Family Practice,265.0,251.0,102.0,38.490566037735846,5.577689243027889,1,High-volume adopters
+1405020299,NJ,Cardiology,50.0,51.0,0.0,0.0,-1.9607843137254901,2,Low-volume traditionalists
+1828602518,GA,Internal Medicine,24.0,21.0,0.0,0.0,14.285714285714286,0,Low-volume adopters
+1630656655,IL,Internal Medicine,201.0,184.0,84.0,41.791044776119406,9.23913043478261,1,High-volume adopters
+1519930864,FL,Internal Medicine,100.0,108.0,29.0,29.0,-7.407407407407407,1,High-volume adopters
+1210178436,MI,Nurse Practitioner,52.0,71.0,14.0,26.923076923076923,-26.760563380281692,2,Low-volume traditionalists
+1922526260,TX,Nurse Practitioner,13.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1300775369,TX,Family Practice,175.0,187.0,68.0,38.857142857142854,-6.4171122994652405,1,High-volume adopters
+1271438495,PA,Internal Medicine,31.0,26.0,0.0,0.0,19.23076923076923,0,Low-volume adopters
+1534330805,IL,Physician Assistant,18.0,12.0,0.0,0.0,50.0,0,Low-volume adopters
+1328824471,PA,Cardiology,56.0,39.0,11.0,19.642857142857142,43.58974358974359,0,Low-volume adopters
+1569871120,GA,Family Practice,64.0,67.0,0.0,0.0,-4.477611940298507,2,Low-volume traditionalists
+1677379518,GA,Family Practice,191.0,183.0,56.0,29.319371727748692,4.371584699453552,1,High-volume adopters
+1239133033,VA,Family Practice,33.0,28.0,0.0,0.0,17.857142857142858,0,Low-volume adopters
+1376367566,MI,Family Practice,22.0,46.0,0.0,0.0,-52.17391304347826,2,Low-volume traditionalists
+1402814907,NJ,Nurse Practitioner,321.0,370.0,107.0,33.333333333333336,-13.243243243243244,1,High-volume adopters
+1132255620,NJ,Cardiology,27.0,29.0,0.0,0.0,-6.896551724137931,2,Low-volume traditionalists
+1857684864,NY,Internal Medicine,456.0,410.0,195.0,42.76315789473684,11.21951219512195,1,High-volume adopters
+1958016911,VA,Internal Medicine,67.0,74.0,0.0,0.0,-9.45945945945946,2,Low-volume traditionalists
+1699616477,CA,Internal Medicine,119.0,104.0,65.0,54.621848739495796,14.423076923076923,1,High-volume adopters
+1878249446,GA,Nurse Practitioner,46.0,71.0,0.0,0.0,-35.2112676056338,2,Low-volume traditionalists
+1888890540,FL,Physician Assistant,91.0,59.0,41.0,45.05494505494506,54.23728813559322,3,High-volume traditionalists
+1273023960,AZ,Internal Medicine,46.0,34.0,13.0,28.26086956521739,35.294117647058826,0,Low-volume adopters
+1671574262,GA,Nurse Practitioner,36.0,35.0,0.0,0.0,2.857142857142857,2,Low-volume traditionalists
+1318151658,CA,Physician Assistant,61.0,83.0,14.0,22.950819672131146,-26.50602409638554,2,Low-volume traditionalists
+1508958806,FL,Internal Medicine,61.0,47.0,0.0,0.0,29.78723404255319,0,Low-volume adopters
+1631240013,OH,Internal Medicine,51.0,48.0,0.0,0.0,6.25,0,Low-volume adopters
+1490893526,WA,Internal Medicine,15.0,13.0,0.0,0.0,15.384615384615385,0,Low-volume adopters
+1470757490,PA,Family Practice,36.0,37.0,0.0,0.0,-2.7027027027027026,2,Low-volume traditionalists
+1780648337,WA,Internal Medicine,255.0,293.0,77.0,30.19607843137255,-12.969283276450511,1,High-volume adopters
+1458623178,AZ,Internal Medicine,264.0,252.0,138.0,52.27272727272727,4.761904761904762,1,High-volume adopters
+1646780674,NJ,Internal Medicine,41.0,38.0,0.0,0.0,7.894736842105263,0,Low-volume adopters
+1478784919,TX,Internal Medicine,23.0,30.0,0.0,0.0,-23.333333333333332,2,Low-volume traditionalists
+1806244600,TX,Cardiology,153.0,138.0,93.0,60.78431372549019,10.869565217391305,1,High-volume adopters
+1220469748,OH,Internal Medicine,42.0,67.0,0.0,0.0,-37.3134328358209,2,Low-volume traditionalists
+1616587872,PA,Family Practice,302.0,273.0,95.0,31.456953642384107,10.622710622710622,1,High-volume adopters
+1041022755,MA,Internal Medicine,23.0,26.0,0.0,0.0,-11.538461538461538,2,Low-volume traditionalists
+1235175724,VA,Family Practice,329.0,288.0,148.0,44.984802431610944,14.23611111111111,1,High-volume adopters
+1434843240,AZ,Nurse Practitioner,328.0,355.0,107.0,32.6219512195122,-7.605633802816901,1,High-volume adopters
+1683432221,PA,Family Practice,33.0,37.0,0.0,0.0,-10.81081081081081,2,Low-volume traditionalists
+1158038511,VA,Family Practice,285.0,281.0,124.0,43.50877192982456,1.4234875444839858,1,High-volume adopters
+1297492307,NY,Physician Assistant,120.0,90.0,65.0,54.166666666666664,33.333333333333336,1,High-volume adopters
+1301824424,MA,Family Practice,29.0,29.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1889790021,NY,Family Practice,433.0,377.0,182.0,42.032332563510394,14.854111405835544,1,High-volume adopters
+1308881562,AZ,Internal Medicine,51.0,61.0,24.0,47.05882352941177,-16.39344262295082,1,High-volume adopters
+1499952550,MA,Internal Medicine,43.0,43.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1681964029,IL,Internal Medicine,25.0,42.0,0.0,0.0,-40.476190476190474,2,Low-volume traditionalists
+1675390727,MA,Internal Medicine,192.0,166.0,74.0,38.541666666666664,15.662650602409638,1,High-volume adopters
+1102837848,GA,Internal Medicine,139.0,109.0,25.0,17.985611510791365,27.522935779816514,0,Low-volume adopters
+1599724616,TX,Physician Assistant,97.0,120.0,14.0,14.43298969072165,-19.166666666666668,2,Low-volume traditionalists
+1731333149,MA,Family Practice,564.0,554.0,179.0,31.73758865248227,1.8050541516245486,1,High-volume adopters
+1275402400,IL,Family Practice,28.0,29.0,0.0,0.0,-3.4482758620689653,2,Low-volume traditionalists
+1357766652,NY,Family Practice,98.0,81.0,12.0,12.244897959183673,20.987654320987655,0,Low-volume adopters
+1671050171,MA,Physician Assistant,109.0,104.0,53.0,48.62385321100918,4.8076923076923075,1,High-volume adopters
+1945738748,AZ,Endocrinology,197.0,142.0,111.0,56.34517766497462,38.732394366197184,1,High-volume adopters
+1264313748,MA,Family Practice,38.0,45.0,0.0,0.0,-15.555555555555555,2,Low-volume traditionalists
+1586689077,NJ,Nurse Practitioner,27.0,24.0,0.0,0.0,12.5,0,Low-volume adopters
+1067750232,MA,Internal Medicine,110.0,101.0,28.0,25.454545454545453,8.910891089108912,1,High-volume adopters
+1142934738,VA,Cardiology,45.0,44.0,0.0,0.0,2.272727272727273,2,Low-volume traditionalists
+1090795104,NC,Family Practice,217.0,244.0,92.0,42.3963133640553,-11.065573770491802,1,High-volume adopters
+1030847940,OH,Family Practice,178.0,184.0,89.0,50.0,-3.260869565217391,1,High-volume adopters
+1389768698,NC,Internal Medicine,259.0,200.0,94.0,36.293436293436294,29.5,1,High-volume adopters
+1595468353,AZ,Internal Medicine,25.0,19.0,0.0,0.0,31.57894736842105,0,Low-volume adopters
+1303674117,WA,Physician Assistant,46.0,47.0,0.0,0.0,-2.127659574468085,2,Low-volume traditionalists
+1366166076,IL,Family Practice,114.0,88.0,25.0,21.92982456140351,29.545454545454547,0,Low-volume adopters
+1159092028,NJ,Family Practice,100.0,117.0,42.0,42.0,-14.52991452991453,1,High-volume adopters
+1035034460,NC,Family Practice,212.0,227.0,89.0,41.9811320754717,-6.607929515418502,1,High-volume adopters
+1540323562,FL,Internal Medicine,24.0,27.0,0.0,0.0,-11.11111111111111,2,Low-volume traditionalists
+1220917015,WA,Endocrinology,282.0,271.0,165.0,58.51063829787234,4.059040590405904,1,High-volume adopters
+1679362974,IL,Endocrinology,182.0,144.0,91.0,50.0,26.38888888888889,1,High-volume adopters
+1218564086,PA,Endocrinology,65.0,48.0,36.0,55.38461538461539,35.416666666666664,3,High-volume traditionalists
+1896344893,MA,Internal Medicine,28.0,26.0,0.0,0.0,7.6923076923076925,0,Low-volume adopters
+1469964903,NJ,Physician Assistant,429.0,406.0,253.0,58.97435897435897,5.665024630541872,1,High-volume adopters
+1266481698,FL,Nurse Practitioner,102.0,110.0,23.0,22.54901960784314,-7.2727272727272725,1,High-volume adopters
+1620942590,CA,Cardiology,29.0,20.0,0.0,0.0,45.0,0,Low-volume adopters
+1945292160,MI,Nurse Practitioner,70.0,71.0,0.0,0.0,-1.408450704225352,2,Low-volume traditionalists
+1277597219,WA,Physician Assistant,141.0,132.0,50.0,35.46099290780142,6.818181818181818,1,High-volume adopters
+1386296680,NY,Internal Medicine,15.0,19.0,0.0,0.0,-21.05263157894737,2,Low-volume traditionalists
+1455846747,CA,Endocrinology,183.0,171.0,119.0,65.02732240437159,7.017543859649122,1,High-volume adopters
+1678366590,PA,Physician Assistant,197.0,187.0,106.0,53.807106598984774,5.347593582887701,1,High-volume adopters
+1240163852,CA,Cardiology,21.0,29.0,0.0,0.0,-27.586206896551722,2,Low-volume traditionalists
+1461172338,IL,Internal Medicine,48.0,63.0,14.0,29.166666666666668,-23.80952380952381,2,Low-volume traditionalists
+1454796140,MI,Internal Medicine,159.0,156.0,73.0,45.911949685534594,1.9230769230769231,1,High-volume adopters
+1006513356,PA,Internal Medicine,196.0,178.0,45.0,22.959183673469386,10.112359550561798,1,High-volume adopters
+1232898164,IL,Internal Medicine,110.0,132.0,40.0,36.36363636363637,-16.666666666666668,1,High-volume adopters
+1769933329,TX,Nurse Practitioner,154.0,110.0,82.0,53.246753246753244,40.0,1,High-volume adopters
+1862789392,MA,Nurse Practitioner,19.0,19.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1399755333,MI,Nurse Practitioner,37.0,52.0,0.0,0.0,-28.846153846153847,2,Low-volume traditionalists
+1865710644,NJ,Family Practice,151.0,184.0,44.0,29.13907284768212,-17.934782608695652,1,High-volume adopters
+1727624645,CA,Family Practice,263.0,246.0,123.0,46.7680608365019,6.9105691056910565,1,High-volume adopters
+1894489768,CA,Family Practice,395.0,396.0,164.0,41.51898734177215,-0.25252525252525254,1,High-volume adopters
+1860130525,GA,Internal Medicine,14.0,27.0,0.0,0.0,-48.148148148148145,2,Low-volume traditionalists
+1493892378,AZ,Endocrinology,121.0,110.0,73.0,60.33057851239669,10.0,1,High-volume adopters
+1854029710,VA,Nurse Practitioner,15.0,14.0,0.0,0.0,7.142857142857143,2,Low-volume traditionalists
+1332928541,MA,Internal Medicine,69.0,45.0,0.0,0.0,53.333333333333336,0,Low-volume adopters
+1833469299,GA,Family Practice,252.0,248.0,98.0,38.888888888888886,1.6129032258064515,1,High-volume adopters
+1020537034,TX,Family Practice,282.0,266.0,99.0,35.1063829787234,6.015037593984962,1,High-volume adopters
+1506274816,IL,Family Practice,65.0,36.0,0.0,0.0,80.55555555555556,3,High-volume traditionalists
+1315815995,OH,Internal Medicine,90.0,52.0,40.0,44.44444444444444,73.07692307692308,3,High-volume traditionalists
+1761429436,MA,Physician Assistant,49.0,38.0,14.0,28.571428571428573,28.94736842105263,0,Low-volume adopters
+1226938290,CA,Internal Medicine,143.0,140.0,71.0,49.65034965034965,2.142857142857143,1,High-volume adopters
+1591674586,PA,Physician Assistant,34.0,61.0,0.0,0.0,-44.26229508196721,2,Low-volume traditionalists
+1655149155,IL,Internal Medicine,45.0,55.0,11.0,24.444444444444443,-18.181818181818183,2,Low-volume traditionalists
+1765607032,CA,Internal Medicine,24.0,19.0,0.0,0.0,26.31578947368421,0,Low-volume adopters
+1902700042,NC,Internal Medicine,33.0,35.0,0.0,0.0,-5.714285714285714,2,Low-volume traditionalists
+1122757089,FL,Internal Medicine,89.0,57.0,29.0,32.58426966292135,56.14035087719298,3,High-volume traditionalists
+1780667446,FL,Family Practice,209.0,221.0,116.0,55.50239234449761,-5.429864253393665,1,High-volume adopters
+1087542015,IL,Physician Assistant,234.0,213.0,113.0,48.29059829059829,9.859154929577464,1,High-volume adopters
+1335564516,AZ,Internal Medicine,88.0,110.0,18.0,20.454545454545453,-20.0,2,Low-volume traditionalists
+1571698697,NJ,Family Practice,43.0,65.0,16.0,37.2093023255814,-33.84615384615385,2,Low-volume traditionalists
+1268738015,MI,Nurse Practitioner,27.0,18.0,0.0,0.0,50.0,0,Low-volume adopters
+1684021981,MI,Physician Assistant,37.0,41.0,0.0,0.0,-9.75609756097561,2,Low-volume traditionalists
+1732287047,MA,Endocrinology,97.0,102.0,51.0,52.577319587628864,-4.901960784313726,1,High-volume adopters
+1170297274,CA,Cardiology,678.0,649.0,243.0,35.84070796460177,4.4684129429892145,1,High-volume adopters
+1362809488,GA,Family Practice,108.0,106.0,26.0,24.074074074074073,1.8867924528301887,1,High-volume adopters
+1057440975,GA,Nurse Practitioner,61.0,69.0,12.0,19.672131147540984,-11.594202898550725,2,Low-volume traditionalists
+1519556347,AZ,Nurse Practitioner,124.0,75.0,73.0,58.87096774193548,65.33333333333333,3,High-volume traditionalists
+1638164164,NJ,Internal Medicine,73.0,83.0,26.0,35.61643835616438,-12.048192771084338,1,High-volume adopters
+1644904112,VA,Cardiology,387.0,335.0,134.0,34.62532299741602,15.522388059701493,1,High-volume adopters
+1657579102,AZ,Family Practice,12.0,16.0,0.0,0.0,-25.0,2,Low-volume traditionalists
+1231264878,MI,Internal Medicine,55.0,35.0,15.0,27.272727272727273,57.142857142857146,3,High-volume traditionalists
+1520475713,WA,Nurse Practitioner,357.0,319.0,124.0,34.73389355742297,11.912225705329154,1,High-volume adopters
+1610825102,FL,Internal Medicine,70.0,74.0,16.0,22.857142857142858,-5.405405405405405,2,Low-volume traditionalists
+1624392977,NY,Family Practice,25.0,31.0,0.0,0.0,-19.35483870967742,2,Low-volume traditionalists
+1921184168,FL,Internal Medicine,526.0,480.0,247.0,46.958174904942965,9.583333333333334,1,High-volume adopters
+1291649997,MI,Physician Assistant,86.0,63.0,12.0,13.953488372093023,36.507936507936506,0,Low-volume adopters
+1516826864,TX,Internal Medicine,97.0,101.0,39.0,40.20618556701031,-3.9603960396039604,1,High-volume adopters
+1273097874,PA,Family Practice,154.0,127.0,24.0,15.584415584415584,21.25984251968504,1,High-volume adopters
+1675240959,OH,Family Practice,243.0,263.0,91.0,37.44855967078189,-7.604562737642586,1,High-volume adopters
+1227589839,GA,Internal Medicine,95.0,100.0,27.0,28.42105263157895,-5.0,1,High-volume adopters
+1943725804,CA,Family Practice,20.0,17.0,0.0,0.0,17.647058823529413,0,Low-volume adopters
+1674651781,WA,Internal Medicine,282.0,263.0,76.0,26.95035460992908,7.224334600760456,1,High-volume adopters
+1525510207,AZ,Family Practice,21.0,24.0,0.0,0.0,-12.5,2,Low-volume traditionalists
+1380926469,VA,Internal Medicine,23.0,24.0,0.0,0.0,-4.166666666666667,2,Low-volume traditionalists
+1234939141,NY,Internal Medicine,184.0,177.0,88.0,47.82608695652174,3.9548022598870056,1,High-volume adopters
+1968093853,NJ,Endocrinology,27.0,57.0,0.0,0.0,-52.63157894736842,2,Low-volume traditionalists
+1005541804,PA,Family Practice,19.0,13.0,0.0,0.0,46.15384615384615,0,Low-volume adopters
+1702129650,FL,Endocrinology,18.0,29.0,0.0,0.0,-37.93103448275862,2,Low-volume traditionalists
+1352077893,NC,Endocrinology,386.0,394.0,220.0,56.994818652849744,-2.030456852791878,1,High-volume adopters
+1476403763,AZ,Nurse Practitioner,147.0,104.0,69.0,46.93877551020408,41.34615384615385,3,High-volume traditionalists
+1606974590,CA,Endocrinology,160.0,146.0,97.0,60.625,9.58904109589041,1,High-volume adopters
+1656906213,FL,Internal Medicine,38.0,25.0,13.0,34.21052631578947,52.0,3,High-volume traditionalists
+1382231895,TX,Family Practice,214.0,201.0,99.0,46.26168224299065,6.467661691542289,1,High-volume adopters
+1077777219,FL,Nurse Practitioner,146.0,149.0,38.0,26.027397260273972,-2.0134228187919465,1,High-volume adopters
+1817874124,VA,Endocrinology,188.0,176.0,116.0,61.702127659574465,6.818181818181818,1,High-volume adopters
+1947267371,IL,Cardiology,296.0,287.0,75.0,25.33783783783784,3.1358885017421603,1,High-volume adopters
+1388534761,VA,Internal Medicine,142.0,130.0,26.0,18.309859154929576,9.23076923076923,1,High-volume adopters
+1714876905,OH,Internal Medicine,117.0,97.0,50.0,42.73504273504273,20.61855670103093,1,High-volume adopters
+1493670539,NC,Nurse Practitioner,85.0,79.0,23.0,27.058823529411764,7.594936708860759,1,High-volume adopters
+1044112787,MI,Internal Medicine,280.0,269.0,117.0,41.785714285714285,4.089219330855019,1,High-volume adopters
+1902753004,GA,Family Practice,432.0,423.0,189.0,43.75,2.127659574468085,1,High-volume adopters
+1843256599,IL,Internal Medicine,29.0,36.0,0.0,0.0,-19.444444444444443,2,Low-volume traditionalists
+1200470191,NJ,Nurse Practitioner,971.0,867.0,523.0,53.86199794026776,11.995386389850058,1,High-volume adopters
+1708698199,MI,Endocrinology,30.0,50.0,13.0,43.333333333333336,-40.0,2,Low-volume traditionalists
+1087361207,FL,Internal Medicine,34.0,30.0,11.0,32.35294117647059,13.333333333333334,0,Low-volume adopters
+1173919351,NC,Endocrinology,491.0,434.0,303.0,61.710794297352344,13.133640552995391,1,High-volume adopters
+1830039282,VA,Family Practice,24.0,27.0,0.0,0.0,-11.11111111111111,2,Low-volume traditionalists
+1646499083,CA,Internal Medicine,90.0,99.0,47.0,52.22222222222222,-9.090909090909092,1,High-volume adopters
+1404675949,GA,Nurse Practitioner,25.0,29.0,0.0,0.0,-13.793103448275861,2,Low-volume traditionalists
+1561803048,PA,Family Practice,109.0,114.0,26.0,23.853211009174313,-4.385964912280702,1,High-volume adopters
+1129235331,CA,Family Practice,118.0,108.0,42.0,35.59322033898305,9.25925925925926,1,High-volume adopters
+1561478001,FL,Family Practice,52.0,67.0,0.0,0.0,-22.388059701492537,2,Low-volume traditionalists
+1891023861,TX,Nurse Practitioner,51.0,53.0,0.0,0.0,-3.7735849056603774,2,Low-volume traditionalists
+1128757509,AZ,Cardiology,351.0,315.0,162.0,46.15384615384615,11.428571428571429,1,High-volume adopters
+1666959099,NC,Internal Medicine,225.0,240.0,86.0,38.22222222222222,-6.25,1,High-volume adopters
+1347593680,MA,Internal Medicine,69.0,105.0,0.0,0.0,-34.285714285714285,2,Low-volume traditionalists
+1228719210,VA,Family Practice,32.0,30.0,0.0,0.0,6.666666666666667,0,Low-volume adopters
+1475919539,NC,Physician Assistant,188.0,181.0,79.0,42.02127659574468,3.867403314917127,1,High-volume adopters
+1194956032,FL,Family Practice,219.0,197.0,92.0,42.009132420091326,11.16751269035533,1,High-volume adopters
+1752932042,GA,Nurse Practitioner,204.0,210.0,91.0,44.6078431372549,-2.857142857142857,1,High-volume adopters
+1130162457,CA,Nurse Practitioner,87.0,86.0,0.0,0.0,1.1627906976744187,2,Low-volume traditionalists
+1229847805,OH,Family Practice,174.0,117.0,38.0,21.839080459770116,48.717948717948715,3,High-volume traditionalists
+1106929987,CA,Endocrinology,41.0,25.0,11.0,26.829268292682926,64.0,3,High-volume traditionalists
+1052612703,VA,Internal Medicine,84.0,74.0,16.0,19.047619047619047,13.513513513513514,0,Low-volume adopters
+1181267489,TX,Internal Medicine,82.0,90.0,16.0,19.51219512195122,-8.88888888888889,2,Low-volume traditionalists
+1216706730,MA,Internal Medicine,239.0,229.0,83.0,34.72803347280335,4.366812227074236,1,High-volume adopters
+1929260485,NJ,Family Practice,294.0,269.0,178.0,60.54421768707483,9.293680297397769,1,High-volume adopters
+1718472307,MI,Endocrinology,269.0,224.0,165.0,61.33828996282528,20.089285714285715,1,High-volume adopters
+1376402195,NC,Internal Medicine,232.0,200.0,146.0,62.93103448275862,16.0,1,High-volume adopters
+1044929527,AZ,Internal Medicine,57.0,60.0,11.0,19.29824561403509,-5.0,2,Low-volume traditionalists
+1432535901,NJ,Internal Medicine,609.0,593.0,275.0,45.1559934318555,2.69814502529511,1,High-volume adopters
+1057549809,IL,Endocrinology,125.0,87.0,76.0,60.8,43.67816091954023,3,High-volume traditionalists
+1956950105,TX,Physician Assistant,320.0,252.0,114.0,35.625,26.984126984126984,1,High-volume adopters
+1602180559,CA,Family Practice,235.0,245.0,96.0,40.851063829787236,-4.081632653061225,1,High-volume adopters
+1852300976,GA,Nurse Practitioner,35.0,45.0,0.0,0.0,-22.22222222222222,2,Low-volume traditionalists
+1557928286,NC,Internal Medicine,254.0,225.0,91.0,35.826771653543304,12.88888888888889,1,High-volume adopters
+1951256787,AZ,Nurse Practitioner,219.0,204.0,78.0,35.61643835616438,7.352941176470588,1,High-volume adopters
+1868872844,GA,Internal Medicine,31.0,40.0,0.0,0.0,-22.5,2,Low-volume traditionalists
+1191816821,MI,Nurse Practitioner,191.0,152.0,105.0,54.973821989528794,25.657894736842106,1,High-volume adopters
+1064374632,NJ,Family Practice,157.0,157.0,43.0,27.388535031847134,0.0,1,High-volume adopters
+1669408737,TX,Family Practice,27.0,39.0,0.0,0.0,-30.76923076923077,2,Low-volume traditionalists
+1404546939,MA,Physician Assistant,45.0,46.0,0.0,0.0,-2.1739130434782608,2,Low-volume traditionalists
+1837611975,IL,Internal Medicine,44.0,27.0,0.0,0.0,62.96296296296296,0,Low-volume adopters
+1140995126,NC,Endocrinology,85.0,61.0,44.0,51.76470588235294,39.34426229508197,3,High-volume traditionalists
+1272160757,VA,Internal Medicine,43.0,34.0,0.0,0.0,26.470588235294116,0,Low-volume adopters
+1801249197,MA,Family Practice,22.0,14.0,0.0,0.0,57.142857142857146,0,Low-volume adopters
+1884292643,GA,Family Practice,136.0,95.0,62.0,45.588235294117645,43.1578947368421,3,High-volume traditionalists
+1897705415,PA,Cardiology,380.0,360.0,119.0,31.31578947368421,5.555555555555555,1,High-volume adopters
+1486790329,NC,Endocrinology,26.0,25.0,0.0,0.0,4.0,2,Low-volume traditionalists
+1399248993,VA,Family Practice,35.0,65.0,0.0,0.0,-46.15384615384615,2,Low-volume traditionalists
+1585079847,CA,Internal Medicine,452.0,372.0,259.0,57.30088495575221,21.50537634408602,1,High-volume adopters
+1332506494,OH,Family Practice,23.0,22.0,0.0,0.0,4.545454545454546,2,Low-volume traditionalists
+1375985289,NY,Cardiology,85.0,87.0,14.0,16.470588235294116,-2.2988505747126435,2,Low-volume traditionalists
+1211577370,CA,Nurse Practitioner,502.0,499.0,186.0,37.05179282868526,0.6012024048096193,1,High-volume adopters
+1689791444,FL,Family Practice,165.0,204.0,12.0,7.2727272727272725,-19.11764705882353,2,Low-volume traditionalists
+1413354733,MA,Nurse Practitioner,16.0,26.0,0.0,0.0,-38.46153846153846,2,Low-volume traditionalists
+1460730406,GA,Family Practice,423.0,433.0,99.0,23.404255319148938,-2.3094688221709005,1,High-volume adopters
+1091146632,PA,Internal Medicine,62.0,34.0,15.0,24.193548387096776,82.3529411764706,3,High-volume traditionalists
+1936884200,OH,Family Practice,40.0,29.0,14.0,35.0,37.93103448275862,3,High-volume traditionalists
+1446994527,VA,Internal Medicine,25.0,29.0,0.0,0.0,-13.793103448275861,2,Low-volume traditionalists
+1088185222,NC,Internal Medicine,97.0,75.0,56.0,57.7319587628866,29.333333333333332,1,High-volume adopters
+1962707637,MI,Family Practice,94.0,96.0,39.0,41.48936170212766,-2.0833333333333335,1,High-volume adopters
+1824767138,AZ,Internal Medicine,20.0,19.0,0.0,0.0,5.2631578947368425,2,Low-volume traditionalists
+1893548286,TX,Internal Medicine,35.0,30.0,0.0,0.0,16.666666666666668,0,Low-volume adopters
+1299004052,GA,Nurse Practitioner,38.0,48.0,0.0,0.0,-20.833333333333332,2,Low-volume traditionalists
+1430473584,WA,Internal Medicine,15.0,11.0,0.0,0.0,36.36363636363637,0,Low-volume adopters
+1448205087,TX,Endocrinology,813.0,737.0,460.0,56.580565805658054,10.312075983717774,1,High-volume adopters
+1108130362,MI,Internal Medicine,181.0,160.0,96.0,53.03867403314917,13.125,1,High-volume adopters
+1153129632,NY,Physician Assistant,13.0,12.0,0.0,0.0,8.333333333333334,2,Low-volume traditionalists
+1820671119,IL,Family Practice,29.0,32.0,0.0,0.0,-9.375,2,Low-volume traditionalists
+1940593480,GA,Internal Medicine,39.0,31.0,0.0,0.0,25.806451612903224,0,Low-volume adopters
+1757726655,TX,Physician Assistant,119.0,87.0,29.0,24.369747899159663,36.7816091954023,3,High-volume traditionalists
+1360488569,NJ,Family Practice,83.0,43.0,41.0,49.397590361445786,93.02325581395348,3,High-volume traditionalists
+1325732014,NY,Internal Medicine,767.0,791.0,210.0,27.379400260756192,-3.034134007585335,1,High-volume adopters
+1523899231,PA,Internal Medicine,53.0,48.0,13.0,24.528301886792452,10.416666666666666,0,Low-volume adopters
+1833187223,VA,Cardiology,12.0,21.0,0.0,0.0,-42.857142857142854,2,Low-volume traditionalists
+1047853010,FL,Internal Medicine,46.0,39.0,12.0,26.08695652173913,17.94871794871795,0,Low-volume adopters
+1724711638,MA,Internal Medicine,21.0,21.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1680529302,AZ,Nurse Practitioner,60.0,71.0,0.0,0.0,-15.492957746478874,2,Low-volume traditionalists
+1081280471,TX,Family Practice,22.0,36.0,0.0,0.0,-38.888888888888886,2,Low-volume traditionalists
+1265224869,WA,Family Practice,69.0,102.0,11.0,15.942028985507246,-32.35294117647059,2,Low-volume traditionalists
+1856465865,FL,Internal Medicine,180.0,151.0,67.0,37.22222222222222,19.205298013245034,1,High-volume adopters
+1300109270,WA,Internal Medicine,1063.0,966.0,660.0,62.08842897460019,10.041407867494824,1,High-volume adopters
+1646790956,GA,Physician Assistant,178.0,160.0,44.0,24.719101123595507,11.25,1,High-volume adopters
+1119576847,PA,Internal Medicine,38.0,43.0,0.0,0.0,-11.627906976744185,2,Low-volume traditionalists
+1222207794,AZ,Family Practice,21.0,26.0,0.0,0.0,-19.23076923076923,2,Low-volume traditionalists
+1814193653,NY,Nurse Practitioner,77.0,91.0,41.0,53.246753246753244,-15.384615384615385,1,High-volume adopters
+1917325799,CA,Nurse Practitioner,90.0,83.0,31.0,34.44444444444444,8.433734939759036,1,High-volume adopters
+1708613518,MA,Internal Medicine,205.0,212.0,61.0,29.75609756097561,-3.30188679245283,1,High-volume adopters
+1787046166,NY,Internal Medicine,96.0,82.0,31.0,32.291666666666664,17.073170731707318,1,High-volume adopters
+1273680456,PA,Nurse Practitioner,37.0,33.0,0.0,0.0,12.121212121212121,0,Low-volume adopters
+1594619409,WA,Internal Medicine,183.0,167.0,77.0,42.076502732240435,9.580838323353293,1,High-volume adopters
+1117474372,TX,Internal Medicine,41.0,28.0,11.0,26.829268292682926,46.42857142857143,3,High-volume traditionalists
+1355739934,VA,Internal Medicine,431.0,420.0,184.0,42.69141531322506,2.619047619047619,1,High-volume adopters
+1929602604,MA,Internal Medicine,45.0,40.0,24.0,53.333333333333336,12.5,1,High-volume adopters
+1609944924,PA,Internal Medicine,14.0,16.0,0.0,0.0,-12.5,2,Low-volume traditionalists
+1574011759,NJ,Internal Medicine,45.0,42.0,12.0,26.666666666666668,7.142857142857143,0,Low-volume adopters
+1083553763,AZ,Internal Medicine,142.0,146.0,93.0,65.49295774647888,-2.73972602739726,1,High-volume adopters
+1110706779,MI,Internal Medicine,74.0,53.0,27.0,36.486486486486484,39.62264150943396,3,High-volume traditionalists
+1064243779,FL,Family Practice,427.0,372.0,193.0,45.19906323185012,14.78494623655914,1,High-volume adopters
+1320867755,NJ,Nurse Practitioner,127.0,179.0,0.0,0.0,-29.050279329608937,2,Low-volume traditionalists
+1075324089,IL,Internal Medicine,294.0,263.0,152.0,51.70068027210884,11.787072243346008,1,High-volume adopters
+1233038329,CA,Internal Medicine,20.0,25.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1900440621,CA,Nurse Practitioner,66.0,89.0,0.0,0.0,-25.84269662921348,2,Low-volume traditionalists
+1884476458,WA,Family Practice,40.0,49.0,13.0,32.5,-18.367346938775512,2,Low-volume traditionalists
+1858894842,FL,Family Practice,92.0,67.0,22.0,23.91304347826087,37.3134328358209,0,Low-volume adopters
+1926716854,NY,Family Practice,27.0,27.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1261384930,NC,Internal Medicine,26.0,34.0,0.0,0.0,-23.529411764705884,2,Low-volume traditionalists
+1908838299,PA,Internal Medicine,79.0,121.0,0.0,0.0,-34.710743801652896,2,Low-volume traditionalists
+1403826714,FL,Nurse Practitioner,240.0,202.0,75.0,31.25,18.81188118811881,1,High-volume adopters
+1203596889,WA,Internal Medicine,55.0,59.0,0.0,0.0,-6.779661016949152,2,Low-volume traditionalists
+1010666993,AZ,Internal Medicine,345.0,272.0,132.0,38.26086956521739,26.83823529411765,1,High-volume adopters
+1067899321,VA,Family Practice,15.0,14.0,0.0,0.0,7.142857142857143,2,Low-volume traditionalists
+1653014670,VA,Family Practice,94.0,102.0,0.0,0.0,-7.8431372549019605,2,Low-volume traditionalists
+1456425158,PA,Internal Medicine,583.0,587.0,302.0,51.80102915951973,-0.6814310051107325,1,High-volume adopters
+1087644641,PA,Family Practice,89.0,95.0,14.0,15.730337078651685,-6.315789473684211,2,Low-volume traditionalists
+1182274834,IL,Family Practice,96.0,72.0,36.0,37.5,33.333333333333336,1,High-volume adopters
+1844070817,VA,Nurse Practitioner,403.0,419.0,140.0,34.7394540942928,-3.818615751789976,1,High-volume adopters
+1334048891,MI,Family Practice,178.0,141.0,78.0,43.82022471910113,26.24113475177305,1,High-volume adopters
+1027040399,AZ,Internal Medicine,457.0,408.0,257.0,56.2363238512035,12.009803921568627,1,High-volume adopters
+1960447925,MA,Internal Medicine,341.0,294.0,145.0,42.52199413489736,15.986394557823129,1,High-volume adopters
+1690235801,PA,Cardiology,57.0,77.0,0.0,0.0,-25.974025974025974,2,Low-volume traditionalists
+1255283339,CA,Family Practice,27.0,23.0,0.0,0.0,17.391304347826086,0,Low-volume adopters
+1837122513,CA,Internal Medicine,200.0,216.0,73.0,36.5,-7.407407407407407,1,High-volume adopters
+1282592719,VA,Internal Medicine,171.0,125.0,66.0,38.59649122807018,36.8,1,High-volume adopters
+1555923296,NY,Internal Medicine,286.0,298.0,116.0,40.55944055944056,-4.026845637583893,1,High-volume adopters
+1509149508,NJ,Endocrinology,481.0,477.0,240.0,49.896049896049895,0.8385744234800838,1,High-volume adopters
+1874542979,FL,Physician Assistant,123.0,82.0,13.0,10.56910569105691,50.0,0,Low-volume adopters
+1395134932,FL,Internal Medicine,193.0,164.0,93.0,48.18652849740933,17.682926829268293,1,High-volume adopters
+1648926605,AZ,Internal Medicine,66.0,75.0,30.0,45.45454545454545,-12.0,1,High-volume adopters
+1483971897,VA,Internal Medicine,51.0,55.0,0.0,0.0,-7.2727272727272725,2,Low-volume traditionalists
+1601547149,WA,Internal Medicine,99.0,65.0,41.0,41.41414141414141,52.30769230769231,3,High-volume traditionalists
+1674120900,AZ,Family Practice,22.0,22.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1229604723,NC,Family Practice,30.0,31.0,0.0,0.0,-3.225806451612903,2,Low-volume traditionalists
+1301327008,TX,Endocrinology,99.0,101.0,65.0,65.65656565656566,-1.9801980198019802,1,High-volume adopters
+1187860870,GA,Nurse Practitioner,18.0,27.0,0.0,0.0,-33.333333333333336,2,Low-volume traditionalists
+1444111202,PA,Physician Assistant,400.0,400.0,81.0,20.25,0.0,1,High-volume adopters
+1227465679,MA,Internal Medicine,86.0,89.0,24.0,27.906976744186046,-3.3707865168539324,1,High-volume adopters
+1280778043,OH,Physician Assistant,29.0,41.0,0.0,0.0,-29.26829268292683,2,Low-volume traditionalists
+1664143674,FL,Internal Medicine,222.0,198.0,91.0,40.990990990990994,12.121212121212121,1,High-volume adopters
+1357479241,MI,Nurse Practitioner,29.0,46.0,0.0,0.0,-36.95652173913044,2,Low-volume traditionalists
+1911800970,OH,Family Practice,79.0,69.0,16.0,20.253164556962027,14.492753623188406,0,Low-volume adopters
+1722690158,NC,Internal Medicine,120.0,151.0,12.0,10.0,-20.52980132450331,2,Low-volume traditionalists
+1588623742,NY,Internal Medicine,122.0,92.0,73.0,59.83606557377049,32.608695652173914,1,High-volume adopters
+1524918119,NJ,Cardiology,59.0,71.0,12.0,20.338983050847457,-16.901408450704224,2,Low-volume traditionalists
+1952264132,VA,Family Practice,94.0,141.0,0.0,0.0,-33.333333333333336,2,Low-volume traditionalists
+1255040548,OH,Family Practice,27.0,40.0,0.0,0.0,-32.5,2,Low-volume traditionalists
+1840353680,PA,Internal Medicine,76.0,74.0,11.0,14.473684210526315,2.7027027027027026,0,Low-volume adopters
+1430764972,FL,Endocrinology,16.0,16.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1341765920,CA,Internal Medicine,35.0,39.0,0.0,0.0,-10.256410256410257,2,Low-volume traditionalists
+1075164427,FL,Family Practice,315.0,269.0,169.0,53.65079365079365,17.100371747211895,1,High-volume adopters
+1241115907,AZ,Family Practice,23.0,25.0,0.0,0.0,-8.0,2,Low-volume traditionalists
+1308499285,MA,Nurse Practitioner,80.0,57.0,22.0,27.5,40.35087719298246,3,High-volume traditionalists
+1575749320,NY,Family Practice,22.0,16.0,0.0,0.0,37.5,0,Low-volume adopters
+1695211804,WA,Family Practice,181.0,178.0,81.0,44.751381215469614,1.6853932584269662,1,High-volume adopters
+1168935588,NY,Family Practice,918.0,814.0,402.0,43.790849673202615,12.776412776412776,1,High-volume adopters
+1204881460,TX,Nurse Practitioner,19.0,19.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1057866902,MA,Endocrinology,22.0,23.0,0.0,0.0,-4.3478260869565215,2,Low-volume traditionalists
+1821785552,OH,Family Practice,45.0,48.0,0.0,0.0,-6.25,2,Low-volume traditionalists
+1842883828,CA,Endocrinology,58.0,36.0,25.0,43.10344827586207,61.111111111111114,3,High-volume traditionalists
+1522849109,NY,Internal Medicine,24.0,34.0,0.0,0.0,-29.41176470588235,2,Low-volume traditionalists
+1540500393,NY,Family Practice,82.0,85.0,39.0,47.5609756097561,-3.5294117647058822,1,High-volume adopters
+1246577589,MA,Nurse Practitioner,30.0,37.0,0.0,0.0,-18.91891891891892,2,Low-volume traditionalists
+1854762157,GA,Internal Medicine,15.0,13.0,0.0,0.0,15.384615384615385,0,Low-volume adopters
+1262268309,AZ,Internal Medicine,26.0,27.0,0.0,0.0,-3.7037037037037037,2,Low-volume traditionalists
+1709378848,FL,Internal Medicine,13.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1588585621,AZ,Family Practice,23.0,23.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1116016850,GA,Family Practice,284.0,297.0,154.0,54.225352112676056,-4.377104377104377,1,High-volume adopters
+1127313761,AZ,Family Practice,37.0,40.0,0.0,0.0,-7.5,2,Low-volume traditionalists
+1569532396,WA,Internal Medicine,78.0,77.0,0.0,0.0,1.2987012987012987,2,Low-volume traditionalists
+1723957172,OH,Family Practice,425.0,426.0,194.0,45.64705882352941,-0.2347417840375587,1,High-volume adopters
+1614269766,MA,Nurse Practitioner,15.0,13.0,0.0,0.0,15.384615384615385,0,Low-volume adopters
+1111134064,PA,Nurse Practitioner,43.0,41.0,0.0,0.0,4.878048780487805,2,Low-volume traditionalists
+1865457183,IL,Nurse Practitioner,153.0,148.0,51.0,33.333333333333336,3.3783783783783785,1,High-volume adopters
+1113053694,PA,Physician Assistant,12.0,17.0,0.0,0.0,-29.41176470588235,2,Low-volume traditionalists
+1845387398,NY,Family Practice,45.0,28.0,12.0,26.666666666666668,60.714285714285715,3,High-volume traditionalists
+1511845817,NJ,Internal Medicine,285.0,267.0,101.0,35.43859649122807,6.741573033707865,1,High-volume adopters
+1190251726,AZ,Internal Medicine,130.0,137.0,52.0,40.0,-5.109489051094891,1,High-volume adopters
+1289522496,GA,Family Practice,19.0,15.0,0.0,0.0,26.666666666666668,0,Low-volume adopters
+1024233316,MI,Internal Medicine,25.0,20.0,0.0,0.0,25.0,0,Low-volume adopters
+1231956197,NY,Internal Medicine,93.0,89.0,28.0,30.107526881720432,4.49438202247191,1,High-volume adopters
+1767491257,OH,Family Practice,19.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1066287375,NJ,Nurse Practitioner,12.0,15.0,0.0,0.0,-20.0,2,Low-volume traditionalists
+1949954659,NJ,Family Practice,12.0,0.0,0.0,0.0,0.0,2,Low-volume traditionalists
+1384661260,NJ,Physician Assistant,11.0,15.0,0.0,0.0,-26.666666666666668,2,Low-volume traditionalists

@@ -1,0 +1,30 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Part D diabetes commercial dashboard</title>
+<style>body{margin:0;font-family:Inter,'Segoe UI',system-ui,sans-serif;background:#F3FAF8;color:#12324A}
+.wrap{max-width:1040px;margin:0 auto;padding:24px 20px 40px} h1{margin:4px 0 2px;font-size:25px}
+.sub{color:#6B7C8F;margin-bottom:16px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin-bottom:18px}
+.tile{background:#fff;border:1px solid #C9DED8;border-radius:10px;padding:12px 14px}
+.tile .v{font-size:23px;font-weight:700;color:#0E7C7B} .tile .l{font-size:11.5px;color:#6B7C8F}
+.card{background:#fff;border:1px solid #C9DED8;border-radius:10px;padding:16px 18px;margin-bottom:16px}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:#0E7C7B;margin:0 0 10px}
+table{border-collapse:collapse;width:100%;font-size:12.5px}
+th{background:#0E7C7B;color:#fff;text-align:left;padding:7px 9px} th.num,td.num{text-align:right}
+td{border-bottom:1px solid #C9DED8;padding:6px 9px} img{width:100%;border:1px solid #C9DED8;border-radius:8px}
+</style></head><body><div class="wrap">
+<h1>Medicare Part D: type-2 diabetes commercial view</h1>
+<div class="sub">SYNTHETIC FIXTURE - not real CMS data · 2019–2023 · 1,148 prescribers</div>
+<div style="background:#FBDDD3;color:#E4572E;padding:10px 14px;border-radius:8px;font-weight:600;margin-bottom:16px">SYNTHETIC FIXTURE — the numbers on this page are generated test data with the CMS schema, not real Medicare prescribing. Run with --source cms for real data.</div>
+<div class="tiles">
+ <div class="tile"><div class="v">+28.6 pts</div><div class="l">share shift to SGLT2 + GLP-1</div></div>
+ <div class="tile"><div class="v">1,148</div><div class="l">prescribers analysed</div></div>
+ <div class="tile"><div class="v">4</div><div class="l">targeting segments</div></div>
+ <div class="tile"><div class="v">NC</div><div class="l">highest new-class share (41%)</div></div>
+</div>
+<div class="card"><h2>Class share and growth</h2><img src="figures/share_and_growth.png" alt="share and growth"></div>
+<div class="card"><h2>Prescriber segments and recommended actions</h2>
+<table><thead><tr><th>Segment</th><th class="num">Prescribers</th><th class="num">Median claims</th>
+<th class="num">New-class share</th><th class="num">Growth</th><th>Recommended action</th></tr></thead>
+<tbody><tr><td>High-volume adopters</td><td class="num">515</td><td class="num">197</td><td class="num">43%</td><td class="num">7%</td><td>Protect: peer-to-peer programmes, outcomes data, first for new indications</td></tr><tr><td>High-volume traditionalists</td><td class="num">93</td><td class="num">77</td><td class="num">40%</td><td class="num">58%</td><td>Biggest opportunity: targeted detailing on guideline change and CV/renal outcomes</td></tr><tr><td>Low-volume adopters</td><td class="num">176</td><td class="num">36</td><td class="num">0%</td><td class="num">25%</td><td>Low cost to serve: digital/email, samples, let them grow their panel</td></tr><tr><td>Low-volume traditionalists</td><td class="num">364</td><td class="num">30</td><td class="num">0%</td><td class="num">-14%</td><td>Do not detail in person: newsletter and pharmacy-channel support only</td></tr></tbody></table></div>
+<div class="card"><h2>Segment map</h2><img src="figures/segments.png" alt="segments"></div>
+</div></body></html>
